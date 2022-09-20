@@ -4,7 +4,7 @@
   
     
       <url>
-            <loc>/</loc>
+            <loc>https://carlosrd.dev/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -12,7 +12,7 @@
   
     
       <url>
-            <loc>/categories/</loc>
+            <loc>https://carlosrd.dev/categories/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -20,7 +20,7 @@
   
     
       <url>
-            <loc>/tags/</loc>
+            <loc>https://carlosrd.dev/tags/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
