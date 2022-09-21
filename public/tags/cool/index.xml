@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cool on Carlos-RD</title>
+    <link>https://carlosrd.dev/tags/cool/</link>
+    <description>Recent content in cool on Carlos-RD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Sep 2022 17:18:01 -0400</lastBuildDate><atom:link href="https://carlosrd.dev/tags/cool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://carlosrd.dev/posts/my-first-post/</link>
+      <pubDate>Wed, 21 Sep 2022 17:18:01 -0400</pubDate>
+      
+      <guid>https://carlosrd.dev/posts/my-first-post/</guid>
+      <description>This is my first post.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,27 @@
     <description>Recent content in Tags on Carlos-RD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Wed, 21 Sep 2022 16:24:32 -0400</lastBuildDate><atom:link href="https://carlosrd.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Sep 2022 17:18:01 -0400</lastBuildDate><atom:link href="https://carlosrd.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>= [&#34;about&#34;]</title>
+      <title>cool</title>
+      <link>https://carlosrd.dev/tags/cool/</link>
+      <pubDate>Wed, 21 Sep 2022 17:18:01 -0400</pubDate>
+      
+      <guid>https://carlosrd.dev/tags/cool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post</title>
+      <link>https://carlosrd.dev/tags/post/</link>
+      <pubDate>Wed, 21 Sep 2022 17:18:01 -0400</pubDate>
+      
+      <guid>https://carlosrd.dev/tags/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
       <link>https://carlosrd.dev/tags/about/</link>
       <pubDate>Wed, 21 Sep 2022 16:24:32 -0400</pubDate>
       

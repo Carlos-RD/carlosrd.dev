@@ -4,6 +4,60 @@
   
     
       <url>
+            <loc>https://carlosrd.dev/</loc>
+            <lastmod>2022-09-21T17:18:01-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://carlosrd.dev/tags/cool/</loc>
+            <lastmod>2022-09-21T17:18:01-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://carlosrd.dev/posts/my-first-post/</loc>
+            <lastmod>2022-09-21T17:18:01-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://carlosrd.dev/tags/post/</loc>
+            <lastmod>2022-09-21T17:18:01-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://carlosrd.dev/posts/</loc>
+            <lastmod>2022-09-21T17:18:01-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://carlosrd.dev/tags/</loc>
+            <lastmod>2022-09-21T17:18:01-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://carlosrd.dev/tags/about/</loc>
             <lastmod>2022-09-21T16:24:32-04:00</lastmod>
             <changefreq>daily</changefreq>
@@ -31,25 +85,7 @@
   
     
       <url>
-            <loc>https://carlosrd.dev/</loc>
-            <lastmod>2022-09-21T16:24:32-04:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://carlosrd.dev/categories/</loc>
-            <lastmod>2022-09-21T16:24:32-04:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://carlosrd.dev/tags/</loc>
             <lastmod>2022-09-21T16:24:32-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

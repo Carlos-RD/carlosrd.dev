@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>= [&#34;about&#34;] on Carlos-RD</title>
+    <title>About on Carlos-RD</title>
     <link>https://carlosrd.dev/tags/about/</link>
-    <description>Recent content in = [&#34;about&#34;] on Carlos-RD</description>
+    <description>Recent content in About on Carlos-RD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
     <lastBuildDate>Wed, 21 Sep 2022 16:24:32 -0400</lastBuildDate><atom:link href="https://carlosrd.dev/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -14,7 +13,7 @@
       <pubDate>Wed, 21 Sep 2022 16:24:32 -0400</pubDate>
       
       <guid>https://carlosrd.dev/about/</guid>
-      <description>This is my about page</description>
+      <description>This is my about page.</description>
     </item>
     
   </channel>

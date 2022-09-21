@@ -6,15 +6,23 @@
     <description>Recent content on Carlos-RD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Wed, 21 Sep 2022 16:24:32 -0400</lastBuildDate><atom:link href="https://carlosrd.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Sep 2022 17:18:01 -0400</lastBuildDate><atom:link href="https://carlosrd.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://carlosrd.dev/posts/my-first-post/</link>
+      <pubDate>Wed, 21 Sep 2022 17:18:01 -0400</pubDate>
+      
+      <guid>https://carlosrd.dev/posts/my-first-post/</guid>
+      <description>This is my first post.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://carlosrd.dev/about/</link>
       <pubDate>Wed, 21 Sep 2022 16:24:32 -0400</pubDate>
       
       <guid>https://carlosrd.dev/about/</guid>
-      <description>This is my about page</description>
+      <description>This is my about page.</description>
     </item>
     
   </channel>
