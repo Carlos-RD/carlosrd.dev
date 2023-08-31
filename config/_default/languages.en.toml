@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Carlos' Tech Corner"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/blowfish_logo_transparent.png"
+  # secondaryLogo = "PATH"
+  description = "Carlos' tech corner"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Carlos Retamero Diaz"
+  image = "img/blowfish_logo.png"
+  headline = "Carlos's tech corner. Where the magic takes place."
+  bio = "This is the space to write my bio."
+  links = [
+    { twitter = "https://twitter.com/carlosretamero" },
+    { github = "https://github.com/Carlos-RD/" },
+  ]
+
+  
