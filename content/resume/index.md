@@ -19,7 +19,6 @@ draft = false
         </tr>
     </thead>
     <tbody>
-        
         <tr>
             <td><img class="customEntitityLogo" src="uoy.png"/></td>
             <td><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
@@ -27,8 +26,8 @@ draft = false
             <td>2022</td>
         </tr>
         <tr>
-            <td rowspan=0><img class="customEntitityLogo" src="uol.png"/></td>
-            <td rowspan=0></td><a href="https://www.london.ac.uk" target="_blank">The London School of Economics and Political Science</a></td>
+            <td><img class="customEntitityLogo" src="uol.png"/></td>
+            <td><a href="https://www.london.ac.uk" target="_blank">The London School of Economics and Political Science</a></td>
         </tr>
         <tr>
             <td>BSc in Information Systems and Management</td>
