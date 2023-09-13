@@ -20,4 +20,4 @@ This is a demo site built entirely using Blowfish. It also contains a complete s
   </span>
 </div>
 
-Explore Carlos' tech corner where I ramble about the projects I'm busy with.  
+Explore Carlos' tech corner where I ramble about the projects I'm busy with.  I have updated this on Sep 13
