@@ -23,7 +23,7 @@ draft = false
             <td rowspan=4><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
         </tr>
         <tr>
-            <td>MSc in Computer Sceince with Cyber Security </td>
+            <td>MSc in Computer Sceince with Cyber Security</td>
             <td>2022</td>
         </tr>
         <tr>
