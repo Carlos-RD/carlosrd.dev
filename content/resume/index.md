@@ -19,8 +19,8 @@ draft = false
     </thead>
     <tbody>
         <tr>
-            <td><img class="customEntitityLogo" src="uoy.png"/></td>
-            <td></td><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
+            <td rowspan=3><img class="customEntitityLogo" src="uoy.png"/></td>
+            <td rowspan=3></td><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
         </tr>
         <tr>
             <td>MSc in Computer Sceince with Cyber Security</td>
