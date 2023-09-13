@@ -20,11 +20,11 @@ draft = false
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4><img class="customEntitityLogo" src="uoy.png"/></td>
-            <td rowspan=4><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
+            <td rowspan=3><img class="customEntitityLogo" src="uoy.png"/></td>
+            <td rowspan=3><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
         </tr>
         <tr>
-            <td>Master of Science in Computer Sceince with Cyber Security </td>
+            <td>MSc in Computer Sceince with Cyber Security </td>
             <td>2022</td>
         </tr>
         <tr>
