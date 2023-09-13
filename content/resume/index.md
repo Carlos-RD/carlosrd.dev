@@ -22,7 +22,7 @@ draft = false
         
         <tr>
             <td><img class="customEntitityLogo" src="uoy.png"/></td>
-            <td></td><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
+            <td><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
             <td>MSc in Computer Sceince with Cyber Security</td>
             <td>2022</td>
         </tr>
