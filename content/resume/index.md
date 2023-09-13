@@ -19,8 +19,8 @@ draft = false
     </thead>
     <tbody>
         <tr>
-            <td rowspan=3><img class="customEntitityLogo" src="uoy.png"/></td>
-            <td rowspan=3><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
+            <td rowspan=4><img class="customEntitityLogo" src="uoy.png"/></td>
+            <td rowspan=4><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
         </tr>
         <tr>
             <td>MSc in Computer Sceince with Cyber Security </td>
@@ -28,7 +28,7 @@ draft = false
         </tr>
         <tr>
             <td rowspan=3><img class="customEntitityLogo" src="uol.png"/></td>
-            <td rowspan=3><a href="https://www.london.ac.uk" target="_blank">University of London - The London School of Economics and Political Science</a></td>
+            <td rowspan=3><a href="https://www.london.ac.uk" target="_blank">The London School of Economics and Political Science</a></td>
         </tr>
         <tr>
             <td>BSc in Information Systems and Management</td>
