@@ -19,16 +19,16 @@ draft = false
     </thead>
     <tbody>
         <tr>
-            <td rowspan=3><img class="customEntitityLogo" src="uoy.png"/></td>
-            <td rowspan=3></td><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
+            <td rowspan=0><img class="customEntitityLogo" src="uoy.png"/></td>
+            <td rowspan=0></td><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
         </tr>
         <tr>
-            <td rowspan=2>MSc in Computer Sceince with Cyber Security</td>
-            <td rowspan=2>2022</td>
+            <td rowspan=0>MSc in Computer Sceince with Cyber Security</td>
+            <td rowspan=0>2022</td>
         </tr>
         <tr>
-            <td rowspan=2><img class="customEntitityLogo" src="uol.png"/></td>
-            <td rowspan=2></td><a href="https://www.london.ac.uk" target="_blank">The London School of Economics and Political Science</a></td>
+            <td rowspan=0><img class="customEntitityLogo" src="uol.png"/></td>
+            <td rowspan=0></td><a href="https://www.london.ac.uk" target="_blank">The London School of Economics and Political Science</a></td>
         </tr>
         <tr>
             <td>BSc in Information Systems and Management</td>
