@@ -6,8 +6,9 @@ draft = false
 
 ## Experience 
 
-## Academic Education
+---
 
+## Academic Education
 <table>
     <thead>
         <tr>
@@ -18,13 +19,12 @@ draft = false
         </tr>
     </thead>
     <tbody>
+        
         <tr>
-            <td rowspan=0><img class="customEntitityLogo" src="uoy.png"/></td>
-            <td rowspan=0></td><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
-        </tr>
-        <tr>
-            <td rowspan=0>MSc in Computer Sceince with Cyber Security</td>
-            <td rowspan=0>2022</td>
+            <td><img class="customEntitityLogo" src="uoy.png"/></td>
+            <td></td><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
+            <td>MSc in Computer Sceince with Cyber Security</td>
+            <td>2022</td>
         </tr>
         <tr>
             <td rowspan=0><img class="customEntitityLogo" src="uol.png"/></td>
