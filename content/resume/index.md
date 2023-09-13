@@ -2,6 +2,20 @@
 title = "Resume"
 date = 2023-08-30T22:14:06-04:00
 draft = false 
+
+showDate : false
+showDateUpdated : true
+showHeadingAnchors : false
+showPagination : false
+showReadingTime : false
+showTableOfContents : true
+showTaxonomies : false 
+showWordCount : false
+showSummary : false
+sharingLinks : false
+showEdit: false
+showViews: true
+showLikes: false
 +++
 
 ## Experience 
