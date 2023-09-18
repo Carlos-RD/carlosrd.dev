@@ -29,18 +29,16 @@ This is a list of technologies I'm currently tinkering with. A list of "WIP Proj
 <table>
     <thead>
         <tr>
-            <th>Logo</th>
-            <th>Title</th>
-            <th>Description</th>
+            <th>Technology</th>
             <th>Link</th>
+            <th>Description</th>
         </tr>
     </thead>
     <tbody>
              <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="Markdown.png"/></td>
-            <td>Markdown</td>
+             <td><a target="_blank" href="https://www.markdownguide.org">Markdown </a></td>
             <td>Markup language to create technical documentation. Will come handy for working on this website and Obsitian.</td>
-            <td><a target="_blank" href="https://www.markdownguide.org">Markdown Guide</a></td>
         </tr>
             <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="hugo.png"/></td>
@@ -75,7 +73,7 @@ This is a list of technologies I'm currently tinkering with. A list of "WIP Proj
          <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="cissp.png"/></td>
             <td>CISSP</td>i
-            <td>Hopefully the above creates the system that allows me to obtain the ISC^2 Certified Information Systems Security Professional (CISSP) certification.</td>
+            <td>Hopefully the above creates the system that allows me to obtain the ISC2 Certified Information Systems Security Professional (CISSP) certification.</td>
             <td><a target="_blank" href="https://www.isc2.org/certifications/cissp/">ICS2</a></td>
         </tr>
     </tbody>
