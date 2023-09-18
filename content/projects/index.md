@@ -30,20 +30,20 @@ This is a list of technologies I'm currently tinkering with. A list of "WIP Proj
     <thead>
         <tr>
             <th>Technology</th>
-            <th>Description</th>
             <th>Website</th>
+            <th>Description</th>
         </tr>
     </thead>
     <tbody>
             <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="Markdown.png"/></td>
-            <td>Markup language to create technical documentation. Will come handy for working on this website and Obsitian.</td>
             <td><a target="_blank" href="https://www.markdownguide.org">Markdown </a></td>
+            <td>Markup language to create technical documentation. Will come handy for working on this website and Obsitian.</td>
         </tr>
             <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="hugo.png"/></td>
-            <td>Static site generator written in GO.</td>
             <td><a target="_blank" href="https://gohugo.io/">Hugo</a></td>
+            <td>Static site generator written in GO.</td>
         </tr>
             <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="blowfish_logo.png"/></td>
