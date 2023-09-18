@@ -47,28 +47,28 @@ This is a list of technologies I'm currently tinkering with. A list of "WIP Proj
         </tr>
             <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="blowfish_logo.png"/></td>
-            <td>A powerful, lightweight theme for Hugo built with Tailwind CSS. Makes this website looks the way it does!</td>
             <td><a target="_blank" href="https://github.com/nunocoracao/blowfish">Blowfish</a></td>
+            <td>A powerful, lightweight theme for Hugo built with Tailwind CSS. Makes this website looks the way it does!</td>
         </tr>
             <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="github.png"/></td>
-            <td>Because I need to learn version control and collaborative tools. </td>
             <td><a target="_blank" href="https://github.com/">Github</a></td>
+            <td>Because I need to learn version control and collaborative tools. </td>
         </tr>
             <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="vim.png"/></td>
-            <td>Will I ever quit using the mouse?.</td>
             <td><a target="_blank" href="https://www.vim.org/">Vim</a></td>
+            <td>Will I ever quit using the mouse?.</td>
         </tr>
          <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="obsidian.png"/></td>
-            <td>Taking smart notes to create a second brain that hopefuly remembers better than mine.</td>
             <td><a target="_blank" href="https://obsidian.md/">Obsidian</a></td>
+            <td>Taking smart notes to create a second brain that hopefuly remembers better than mine.</td>
         </tr>
          <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="cissp.png"/></td>
-            <td>Hopefully the above creates the system that allows me to obtain the ISC2 Certified Information Systems Security Professional (CISSP) certification.</td>
             <td><a target="_blank" href="https://www.isc2.org/certifications/cissp/">ICS2<br>CISSP</a></td>
+            <td>Hopefully the above creates the system that allows me to obtain the ISC2 Certified Information Systems Security Professional (CISSP) certification.</td>
         </tr>
     </tbody>
 </table>
