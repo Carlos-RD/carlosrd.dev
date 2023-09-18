@@ -34,7 +34,7 @@ layoutBackgroundHeaderSpace = false
     </thead>
     <tbody>
         <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent"  src="uoy.png"/></td>
+            <td><img class="customEntitityLogo" style="background-color:transparent"  src="uoy.png"/></td>
             <td><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
             <td>MSc in Computer Sceince with Cyber Security</td>
             <td>2022</td>
