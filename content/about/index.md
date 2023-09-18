@@ -17,8 +17,11 @@ showViews = true
 showLikes = false
 layoutBackgroundHeaderSpace = false
 +++
+## About 
 
-## Technical Expertise
+---
+
+## Professional Experience  
 
 ---
 
@@ -27,7 +30,7 @@ layoutBackgroundHeaderSpace = false
     <thead>
         <tr>
             <th>School</th>
-            <th>Link</th>
+            <th>Website</th>
             <th>Degree</th>
             <th>Date</th>
         </tr>
@@ -35,13 +38,13 @@ layoutBackgroundHeaderSpace = false
     <tbody>
         <tr>
             <td><img class="customEntitityLogo" style="background-color:transparent"  src="uoy.png"/></td>
-            <td><a href="https://www.york.ac.uk/" target="_blank">University of York</a></td>
+            <td><a href="https://www.york.ac.uk/" target="_blank">University of York, United Kingdom</a></td>
             <td>MSc in Computer Sceince with Cyber Security</td>
             <td>2022</td>
         </tr>
         <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="uol.png"/></td>
-            <td><a href="https://www.london.ac.uk" target="_blank">The London School of Economics and Political Science</a></td>
+            <td><img class="customEntitityLogo" style="background-color:transparent" src="uol.png"/></td>
+            <td><a href="https://www.london.ac.uk" target="_blank">The London School of Economics and Political Science, United Kingdom</a></td>
             <td>BSc in Information Systems and Management</td>
             <td>2019</td>
         </tr>
@@ -50,8 +53,8 @@ layoutBackgroundHeaderSpace = false
 
 ---
 
-## Valid Certificates 
+## Valid Certifications 
 
 ---
 
-## Expired Certificates 
+## Expired Certifications 

@@ -36,11 +36,47 @@ This is a list of technologies I'm currently tinkering with. A list of "WIP Proj
         </tr>
     </thead>
     <tbody>
-         <tr>
+             <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="Markdown.png"/></td>
+            <td>Markdown</td>
+            <td>Markup language to create technical documentation. Will come handy for working on this website and Obsitian.</td>
+            <td><a target="_blank" href="https://www.markdownguide.org">site</a></br><a target="_blank" href="https://www.markdownguide.org">Markdown Guide</a></td>
+        </tr>
+            <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="hugo.png"/></td>
+            <td>Hugo</td>
+            <td>Static site generator written in GO.</td>
+            <td><a target="_blank" href="https://gohugo.io/">site</a></br><a target="_blank" href="https://gohugo.io/">Hugo</a></td>
+        </tr>
+            <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="blowfish_logo.png"/></td>
             <td>Blowfish</td>
-            <td>A powerful, lightweight theme for Hugo built with Tailwind CSS.</td>
-            <td><a target="_blank" href="https://blowfish.page">site</a></br><a target="_blank" href="https://github.com/nunocoracao/blowfish">github</a></td>
+            <td>A powerful, lightweight theme for Hugo built with Tailwind CSS. Makes this website looks the way it does!</td>
+            <td><a target="_blank" href="https://blowfish.page">site</a></br><a target="_blank" href="https://github.com/nunocoracao/blowfish">Blowfish</a></td>
+        </tr>
+            <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="github.png"/></td>
+            <td>Gihub</td>
+            <td>Because I need to learn version control and collaborative tools. </td>
+            <td><a target="_blank" href="https://github.com/">site</a></br><a target="_blank" href="https://github.com/">Github</a></td>
+        </tr>
+            <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="vim.png"/></td>
+            <td>Vim</td>
+            <td>Will I ever quit using the mouse?.</td>
+            <td><a target="_blank" href="https://www.vim.org/">site</a></br><a target="_blank" href="https://www.vim.org/">Vim</a></td>
+        </tr>
+         <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="obsidian.png"/></td>
+            <td>Obsidian</td>
+            <td>Taking smart notes to create a second brain that hopefuly remembers better than mine.</td>
+            <td><a target="_blank" href="https://obsidian.md/">site</a></br><a target="_blank" href="https://obsidian.md/">Obsidian</a></td>
+        </tr>
+         <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="cissp.png"/></td>
+            <td>CISSP</td>
+            <td>Hopefully the above creates the system that allows me to obtain the $ISC^2$ Certified Information Systems Security Professional (CISSP) certification.</td>
+            <td><a target="_blank" href="https://obsidian.md/">site</a></br><a target="_blank" href="https://obsidian.md/">Obsidian</a></td>
         </tr>
     </tbody>
 </table>
