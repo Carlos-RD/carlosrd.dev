@@ -22,7 +22,9 @@ layoutBackgroundHeaderSpace: false
 
 ---
 
-I always try to find time to work and learn something new. Usually, most of these _pet-projects_ don't see the light of day. They are, however, great opportunities to try something in the real world and learn from it.
+This is a list of technologies I'm currently tinkering with. A list of "WIP Projects" if you will:  
+
+## 2023 
 
 <table>
     <thead>
