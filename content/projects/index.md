@@ -30,16 +30,16 @@ This is a list of technologies I'm currently tinkering with. A list of "WIP Proj
     <thead>
         <tr>
             <th>Technology</th>
-            <th>Link</th>
+            <th></th>
             <th>Description</th>
-            <th>Link</th>
+            <th>Website</th>
         </tr>
     </thead>
     <tbody>
              <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="Markdown.png"/></td>
-             <td><a target="_blank" href="https://www.markdownguide.org">Markdown </a></td>
             <td>Markup language to create technical documentation. Will come handy for working on this website and Obsitian.</td>
+            <td><a target="_blank" href="https://www.markdownguide.org">Markdown </a></td>
         </tr>
             <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="hugo.png"/></td>
@@ -49,13 +49,13 @@ This is a list of technologies I'm currently tinkering with. A list of "WIP Proj
         </tr>
             <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="blowfish_logo.png"/></td>
-            <td>Blowfish</td>
+            <td></td>
             <td>A powerful, lightweight theme for Hugo built with Tailwind CSS. Makes this website looks the way it does!</td>
             <td><a target="_blank" href="https://github.com/nunocoracao/blowfish">Blowfish</a></td>
         </tr>
             <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="github.png"/></td>
-            <td>Gihub</td>
+            <td></td>
             <td>Because I need to learn version control and collaborative tools. </td>
             <td><a target="_blank" href="https://github.com/">Github</a></td>
         </tr>
@@ -73,7 +73,7 @@ This is a list of technologies I'm currently tinkering with. A list of "WIP Proj
         </tr>
          <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="cissp.png"/></td>
-            <td>CISSP</td>i
+            <td>CISSP</td>
             <td>Hopefully the above creates the system that allows me to obtain the ISC2 Certified Information Systems Security Professional (CISSP) certification.</td>
             <td><a target="_blank" href="https://www.isc2.org/certifications/cissp/">ICS2</a></td>
         </tr>
