@@ -2,11 +2,12 @@
 title = "About"
 date = 2023-08-30T22:14:06-04:00
 draft = false 
-showDate = false
-showDateUpdated = false
+
+showDate = true
+showDateUpdated = true
 showHeadingAnchors = false
 showPagination = false
-showReadingTime = false
+showReadingTime = true
 showTableOfContents = true
 showTaxonomies = false 
 showWordCount = false
@@ -22,6 +23,9 @@ layoutBackgroundHeaderSpace = false
 ---
 
 ## Professional Experience  
+
+---
+## Valid Certifications 
 
 ---
 
@@ -53,8 +57,4 @@ layoutBackgroundHeaderSpace = false
 
 ---
 
-## Valid Certifications 
-
----
-
-## Expired Certifications 
+## Past Certifications 

@@ -8,16 +8,16 @@ title = "Carlos' Tech Corner"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/blowfish_logo_transparent.png"
+  logo = "img/logo.png"
   # secondaryLogo = "PATH"
   description = "Carlos' tech corner"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-  name = "Carlos Retamero Diaz"
+  name = "Carlos Retamero Díaz"
   image = "img/me.jpeg"
   headline = "Carlos's tech corner. Where the magic takes place."
-  bio = "This is the space to write my bio."
+  bio = "Tinkering is what I do."
   links = [
     { twitter = "https://twitter.com/carlosretamero" },
     { github = "https://github.com/Carlos-RD/" },

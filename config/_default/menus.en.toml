@@ -25,11 +25,6 @@
   pageRef = "about"
   weight = 15
 
-#[[main]]
- # name = "Resume"
-#  pageRef = "resume"
-#  weight = 20
-
 
 [[main]]
   identifier = "twitter"
@@ -59,7 +54,7 @@
    pageRef = "categories"
    weight = 20
 
- [[footer]]
-   name = "Authors"
-   pageRef = "authors"
-   weight = 30
+# [[footer]]
+#   name = "Authors"
+#   pageRef = "authors"
+#   weight = 30
