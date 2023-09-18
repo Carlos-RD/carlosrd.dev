@@ -30,7 +30,7 @@ smartTOCHideUnfocusedChildren = false
 [footer]
   showMenu = true
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
 
@@ -43,7 +43,7 @@ smartTOCHideUnfocusedChildren = false
   showMoreLinkDest = "/posts"
   cardView = false
   cardViewScreenWidth = false
-  layoutBackgroundBlur = true # only used when layout equals background
+  # layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = true

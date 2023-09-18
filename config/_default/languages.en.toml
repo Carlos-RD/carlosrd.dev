@@ -16,8 +16,8 @@ title = "Carlos' Tech Corner"
 [author]
   name = "Carlos Retamero Díaz"
   image = "img/avatar.png"
-  headline = "Carlos's tech corner. Where the magic takes place."
-  bio = "I tinker with things and stuffs."
+  headline = "I like tinkering with technology."
+  bio = "I tinker with things and stuff."
   links = [
     { twitter = "https://twitter.com/carlosretamero" },
     { github = "https://github.com/Carlos-RD/" },
