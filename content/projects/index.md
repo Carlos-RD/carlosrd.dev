@@ -32,6 +32,7 @@ This is a list of technologies I'm currently tinkering with. A list of "WIP Proj
             <th>Technology</th>
             <th>Link</th>
             <th>Description</th>
+            <th>Link</th>
         </tr>
     </thead>
     <tbody>
@@ -42,7 +43,7 @@ This is a list of technologies I'm currently tinkering with. A list of "WIP Proj
         </tr>
             <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="hugo.png"/></td>
-            <td>Hugo</td>
+            <td></td>
             <td>Static site generator written in GO.</td>
             <td><a target="_blank" href="https://gohugo.io/">Hugo</a></td>
         </tr>
