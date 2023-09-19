@@ -5,8 +5,6 @@
     <link>https://carlosrd.dev/series/</link>
     <description>Recent content in Series on Carlos&#39; Tech Corner</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2023 Carlos Retamero Diaz</copyright>
-    <atom:link href="https://carlosrd.dev/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://carlosrd.dev/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

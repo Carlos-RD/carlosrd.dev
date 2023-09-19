@@ -5,9 +5,7 @@
     <link>https://carlosrd.dev/authors/</link>
     <description>Recent content in Authors Taxonomy Listing Example on Carlos&#39; Tech Corner</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2023 Carlos Retamero Diaz</copyright>
-    <atom:link href="https://carlosrd.dev/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://carlosrd.dev/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Carlos Retamero Díaz</title>
       <link>https://carlosrd.dev/authors/carlos/</link>
@@ -15,7 +13,6 @@
       
       <guid>https://carlosrd.dev/authors/carlos/</guid>
       <description>Carlos Retamero Díaz</description>
-      
     </item>
     
   </channel>

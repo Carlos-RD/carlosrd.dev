@@ -58,3 +58,24 @@ layoutBackgroundHeaderSpace = false
 ---
 
 ## Past Certifications 
+
+<table>
+    <thead>
+        <tr>
+            <th>Vendor</th>
+            <th>Certificate</th>
+            <th>Certificate Number</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img class="customEntitityLogo" style="background-color:transparent"  src="cisco.png"/></td>
+            <td><a href="https://www.cisco.com/" target="_blank">Cisco Systems</a></td>   
+        </tr>
+        <tr>
+            <td>Cisco Certified Entry Networking Technician (CCENT) </td>
+            <td>2008</td>
+        </tr>
+    </tbody>
+</table>
