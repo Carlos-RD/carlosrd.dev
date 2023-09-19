@@ -24,7 +24,7 @@ layoutBackgroundHeaderSpace = false
 
 ## Professional Experience  
 
----
+
 ## Valid Certifications 
 
 <table>
@@ -33,7 +33,7 @@ layoutBackgroundHeaderSpace = false
             <th>Vendor</th>
             <th>Website</th>
             <th>Certificate</th>
-            <th>Certificate Number</th>
+            <th>Certificate #</th>
             <th>Date</th>
         </tr>
     </thead>
@@ -62,7 +62,7 @@ layoutBackgroundHeaderSpace = false
     </tbody>
 </table>
 
----
+
 
 ## Academic Education
 <table>
@@ -90,7 +90,7 @@ layoutBackgroundHeaderSpace = false
     </tbody>
 </table>
 
----
+
 
 ## Past Certifications 
 
@@ -100,7 +100,7 @@ layoutBackgroundHeaderSpace = false
             <th>Vendor</th>
             <th>Website</th>
             <th>Certificate</th>
-            <th>Certificate Number</th>
+            <th>Certificate #</th>
             <th>Date</th>
         </tr>
     </thead>
@@ -151,3 +151,5 @@ layoutBackgroundHeaderSpace = false
         </tr>
     </tbody>
 </table>
+
+---
