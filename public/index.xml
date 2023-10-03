@@ -6,6 +6,7 @@
     <description>Recent content in Welcome to Carlos&#39; Tech Corner! where the magic takes place. :tada: on Carlos&#39; Tech Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2023 Carlos Retamero Díaz</copyright>
     <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://carlosrd.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -13,7 +14,9 @@
       <pubDate>Wed, 30 Aug 2023 22:14:06 -0400</pubDate>
       
       <guid>https://carlosrd.dev/about/</guid>
-      <description>About Professional Experience Valid Certifications Academic Education School Website Degree Date University of York, United Kingdom MSc in Computer Sceince with Cyber Security 2022 The London School of Economics and Political Science, United Kingdom BSc in Information Systems and Management 2019 Past Certifications Vendor Certificate Certificate Number Date Cisco Systems Cisco Certified Entry Networking Technician (CCENT) 2008 </description>
+      <description>About Professional Experience Company Website Position Dates Location SecureOps Manager of Infrastructure Support 2021 - Present Montreal,
+CAN Network Secrurity Team Lead 2018 - 2021 Network Security Engineer 2017 - 2018 Prague, CZE Symantec Technical Support Engineer 2016 - 2017 Prague,</description>
+      
     </item>
     
     <item>
@@ -24,6 +27,7 @@
       <guid>https://carlosrd.dev/projects/</guid>
       <description>This is a list of technologies and tools I’m currently trying to learn and the reasons why I choose to do so:
 2023 Technology Website Description Markdown Markup language to create technical documentation.</description>
+      
     </item>
     
   </channel>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
-  data-auto-appearance="true"><head>
-	<meta name="generator" content="Hugo 0.92.2" />
+  data-auto-appearance="false"><head>
+	<meta name="generator" content="Hugo 0.118.2">
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="en" />
@@ -31,17 +31,14 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.5fb2e0c668db173d63ae61beb06138efe999d71420ffa47a1c776cf310869e166ab721c7ed1c93cd6d33402d6d8e546519e4a43bb6d114aa25a268d2a790a229.css"
-    integrity="sha512-X7LgxmjbFz1jrmG&#43;sGE47&#43;mZ1xQg/6R6HHds8xCGnhZqtyHH7RyTzW0zQC1tjlRlGeSkO7bRFKolomjSp5CiKQ==" />
   
   
-  <script type="text/javascript" src="/js/appearance.min.cd9f9776639958530668ef95bdcb135cc25d054d0602992241cd8e6b51e4329c9c85e3ee490fe231093dc89af06987d3876a7d54f4bae9c8ce03190ee528a55d.js"
-    integrity="sha512-zZ&#43;XdmOZWFMGaO&#43;VvcsTXMJdBU0GApkiQc2Oa1HkMpychePuSQ/iMQk9yJrwaYfTh2p9VPS66cjOAxkO5SilXQ=="></script>
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.3e60b62784c3e987b9f7ba4bb7eddfaae410b11900f30a432a24f2c405c3faeed87c69d266c8cd8735d4ee374f6107e520b5844d2602a48a3b0665e3c36ed427.css"
+    integrity="sha512-PmC2J4TD6Ye597pLt&#43;3fquQQsRkA8wpDKiTyxAXD&#43;u7YfGnSZsjNhzXU7jdPYQflILWETSYCpIo7BmXjw27UJw==" />
   
   
-  
-  
-  
+  <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
+    integrity="sha512-UWoWdFvqWpvQERONJUzA/TlzzVXObhXz3sdj58fCx0SPj&#43;e1TMqBHLghsMfhLNFhyqzh3XlKw9NNQJN8vMnuEg=="></script>
   
   
   
@@ -49,8 +46,13 @@
   
   
   
-  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.34ee8372ff77835535e486c6ed01ff6993374a1cec8108898cad793fc6ae7520778e24db68e085c762d25af6fa7d00b57d7a791438dc68b676581f8c8344f6e0.js"
-    integrity="sha512-NO6Dcv93g1U15IbG7QH/aZM3ShzsgQiJjK15P8audSB3jiTbaOCFx2LSWvb6fQC1fXp5FDjcaLZ2WB&#43;Mg0T24A==" data-copy="" data-copied=""></script>
+  
+  
+  
+  
+  
+  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.3ddcf04f5b0d4c32f72e726d3c12eebccd8c3c9f9daa9a13414808895de0ae1e1cdddda6849680d5bd96dbb60d0b1e0b24c29f5c83e5631e55e7e6bc02015490.js"
+    integrity="sha512-PdzwT1sNTDL3LnJtPBLuvM2MPJ&#43;dqpoTQUgIiV3grh4c3d2mhJaA1b2W27YNCx4LJMKfXIPlYx5V5&#43;a8AgFUkA==" data-copy="" data-copied=""></script>
   
   <script src="/js/zoom.min.js"></script>
   
@@ -69,8 +71,7 @@
   <meta property="og:title" content="Welcome to Carlos&#39; Tech Corner! where the magic takes place. :tada:" />
 <meta property="og:description" content="This site explains what I&#39;m currently tinkering with." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://carlosrd.dev/" /><meta property="og:site_name" content="Carlos&#39; Tech Corner" />
-
+<meta property="og:url" content="https://carlosrd.dev/" />
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Welcome to Carlos&#39; Tech Corner! where the magic takes place. :tada:"/>
@@ -89,7 +90,7 @@
     
     "publisher" : {
       "@type": "Person",
-      "name": "Carlos Retamero Diaz"
+      "name": "Carlos Retamero Díaz"
     }
   }
   </script>
@@ -97,7 +98,7 @@
 
   
   
-  <meta name="author" content="Carlos Retamero Diaz" />
+  <meta name="author" content="Carlos Retamero Díaz" />
   
   
   
@@ -105,6 +106,9 @@
   
   
   <link href="https://github.com/Carlos-RD/" rel="me" />
+  
+  
+  <link href="https://www.linkedin.com/in/carlos-retamero/" rel="me" />
   
   
   
@@ -146,6 +150,29 @@
   <meta name="theme-color"/>
   
   
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyB5gJs6y-m21eWIsBfEbLwtWkwDV9LaLSc",
+      authDomain: "AIzaSyB5gJs6y-m21eWIsBfEbLwtWkwDV9LaLSc",
+      projectId: "carlosrd-dad14",
+      storageBucket: "carlosrd-dad14.appspot.com",
+      messagingSenderId: "82160108663",
+      appId: "1:82160108663:web:ea48dfbe0bc89bdbeab272",
+      measurementId: "G-5R839XL3JD"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
+  
+  
 </head>
 <body
   class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32">
@@ -158,27 +185,15 @@
   
   <div class="min-h-[148px]"></div>
 <div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
-  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom bg-neutral dark:bg-neutral-800"></div>
   <div class="relative max-w-[64rem] ml-auto mr-auto">
     <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
     
-    
-    
-    <div>
-        <a href="/" class="flex">
-            <span class="sr-only">Carlos' Tech Corner</span>
-
-            <img src="/img/blowfish_logo_transparent.png" width="1000" height="1000"
-                class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="Carlos&#39; Tech Corner" />
-
-        </a>
-    </div>
-    
     <div class="flex flex-1 items-center justify-between">
         <nav class="flex space-x-3">
 
-            <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">Carlos' Tech Corner</a>
+            <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">Carlos&rsquo; Tech Corner</a>
 
 
         </nav>
@@ -197,9 +212,9 @@
 
             
             
-  <a href=""  class="flex items-center">
+  <a href="/projects/"  class="flex items-center">
     
-    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="">
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="Projects">
         Projects
     </p>
 </a>
@@ -207,20 +222,10 @@
 
             
             
-  <a href=""  class="flex items-center">
+  <a href="/about/"  class="flex items-center">
     
-    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="">
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="About">
         About
-    </p>
-</a>
-
-
-            
-            
-  <a href=""  class="flex items-center">
-    
-    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="">
-        Resume
     </p>
 </a>
 
@@ -417,9 +422,9 @@
 
                     
   <li class="mt-1">
-    <a href=""  class="flex items-center">
+    <a href="/projects/"  class="flex items-center">
         
-        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="">
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="Projects">
             Projects
         </p>
     </a>
@@ -431,24 +436,10 @@
 
                     
   <li class="mt-1">
-    <a href=""  class="flex items-center">
+    <a href="/about/"  class="flex items-center">
         
-        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="">
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="About">
             About
-        </p>
-    </a>
-</li>
-
-
-
-                    
-
-                    
-  <li class="mt-1">
-    <a href=""  class="flex items-center">
-        
-        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="">
-            Resume
         </p>
     </a>
 </li>
@@ -547,233 +538,8 @@
   
   
     
-<div id="background">
-  
-<article class="max-w-full prose dark:prose-invert">
-    <div class="relative">
-        <div class="absolute inset-x-0 bottom-0 h-1/2 bg-gray-100"></div>
-        <div class="mx-auto max-w-7xl p-0">
-            <div class="relative sm:overflow-hidden">
-                <div class="fixed inset-x-0 top-0" style="z-index:-10">
-                    
-                    
-                    
-                    
-                    <img class="w-full h-[1000px] object-cover m-0 nozoom" src="/img/ocean.jpg" role="presentation">
-                    <div
-                        class="absolute inset-0 h-[1000px] bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
-                    </div>
-                    <div
-                        class="opacity-60 absolute inset-0 h-[1000px] bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
-                    </div>
-                    
-                </div>
-                <div class="relative px-8 py-16 flex flex-col items-center justify-center text-center">
-                    
-                    
-                    
-                    
-                    
-                    
-                    <img class="mb-2 rounded-full h-36 w-36" width="144" height="144"
-                        alt="Carlos Retamero Diaz" src="/img/blowfish_logo_hu184ea2fa12490a2458ca388a16ab730e_227816_288x288_fill_box_center_3.png" />
-                    
-                    
-                    <h1 class="mb-2 text-4xl font-extrabold text-neutral-800 dark:text-neutral-200">
-                        Carlos Retamero Diaz
-                    </h1>
-                    
-                    <h2 class="mt-0 mb-0 text-xl text-neutral-800 dark:text-neutral-300">
-                        Carlos&rsquo;s tech corner. Where the magic takes place.
-                    </h2>
-                    
-                    <div class="mt-3 mb-10 text-2xl">
-                        
-                        <div class="flex flex-wrap">
-                            
-                            
-                            <a class="px-2 hover:text-primary-400 text-primary-800 dark:text-primary-200" href="https://twitter.com/carlosretamero" target="_blank"
-                                aria-label="Twitter" rel="me noopener noreferrer">
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
-
-  </span>
-
-</a>
-                            
-                            
-                            
-                            <a class="px-2 hover:text-primary-400 text-primary-800 dark:text-primary-200" href="https://github.com/Carlos-RD/" target="_blank"
-                                aria-label="Github" rel="me noopener noreferrer">
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
-
-  </span>
-
-</a>
-                            
-                            
-                        </div>
-                        
-                    </div>
-                    <section class="prose dark:prose-invert"><p>This is a demo site built entirely using Blowfish. It also contains a complete set of [theme documentation]</p>
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    
-
-  <span class="relative inline-block align-text-bottom icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
-
-  </span>
-
-
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">This is a demo of the <code id="layout">background</code> layout.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Switch layout &orarr;
-    </button>
-  </span>
-</div>
-<p>Explore Carlos' tech corner where I ramble about the projects I&rsquo;m busy with.</p>
-</section>
-                </div>
-            </div>
-        </div>
-    </div>
-</article>
-<section>
-    
-
-
-</section>
-
-<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
-<script>
-    window.addEventListener('scroll', function (e) {
-        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
-        var background_blur = document.getElementById('background-blur');
-        background_blur.style.opacity = (scroll / 300)
-    });
-</script>
-
-
-</div>
-<div id="hero" style="display:none">
-  
-<article class="max-w-full prose dark:prose-invert">
-    <div class="relative">
-        <div class="absolute inset-x-0 bottom-0 h-1/2 bg-gray-100"></div>
-        <div class="mx-auto max-w-7xl p-0">
-            <div class="relative shadow-xl sm:overflow-hidden rounded-2xl">
-                <div class="absolute inset-0">
-                    
-                    
-                    
-                    
-                    <img class="h-full w-full object-cover m-0 nozoom" src="/img/ocean.jpg">
-                    <div
-                        class="absolute inset-0 bg-gradient-to-r from-primary-500 to-secondary-700 dark:from-primary-600 dark:to-secondary-800 mix-blend-multiply">
-                    </div>
-                    
-                </div>
-                <div class="relative px-4 py-16 sm:px-6 sm:py-24 lg:py-32 lg:px-8 flex flex-col items-center justify-center text-center">
-                    
-                    
-                    
-                    
-                    
-                    
-                    <img class="mb-2 rounded-full h-36 w-36" width="144" height="144"
-                        alt="Carlos Retamero Diaz" src="/img/blowfish_logo_hu184ea2fa12490a2458ca388a16ab730e_227816_288x288_fill_box_center_3.png" />
-                    
-                    
-                    <h1 class="mb-2 text-4xl font-extrabold text-neutral-200">
-                        Carlos Retamero Diaz
-                    </h1>
-                    
-                    <h2 class="mt-0 mb-0 text-xl text-neutral-300">
-                        Carlos&rsquo;s tech corner. Where the magic takes place.
-                    </h2>
-                    
-                    <div class="mt-1 mb-10 text-2xl">
-                        
-                        <div class="flex flex-wrap">
-                            
-                            
-                            <a class="px-2 hover:text-primary-400 text-primary-300" href="https://twitter.com/carlosretamero" target="_blank"
-                                aria-label="Twitter" rel="me noopener noreferrer">
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
-
-  </span>
-
-</a>
-                            
-                            
-                            
-                            <a class="px-2 hover:text-primary-400 text-primary-300" href="https://github.com/Carlos-RD/" target="_blank"
-                                aria-label="Github" rel="me noopener noreferrer">
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
-
-  </span>
-
-</a>
-                            
-                            
-                        </div>
-                        
-                    </div>
-                    <section class="prose dark:prose-invert"><p>This is a demo site built entirely using Blowfish. It also contains a complete set of [theme documentation]</p>
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    
-
-  <span class="relative inline-block align-text-bottom icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
-
-  </span>
-
-
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">This is a demo of the <code id="layout">background</code> layout.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Switch layout &orarr;
-    </button>
-  </span>
-</div>
-<p>Explore Carlos' tech corner where I ramble about the projects I&rsquo;m busy with.</p>
-</section>
-                </div>
-            </div>
-        </div>
-    </div>
-</article>
-<section>
-    
-
-
-</section>
-
-</div>
-<div id="profile" style="display:none">
-  
 <article
-  class="
-    h-full
-   flex flex-col items-center justify-center text-center"
+  class=" flex flex-col items-center justify-center text-center"
 >
   <header class="flex flex-col items-center mb-3">
     
@@ -786,17 +552,17 @@
           class="mb-2 rounded-full h-36 w-36"
           width="144"
           height="144"
-          alt="Carlos Retamero Diaz"
-          src="/img/blowfish_logo_hu184ea2fa12490a2458ca388a16ab730e_227816_288x288_fill_box_center_3.png"
+          alt="Carlos Retamero Díaz"
+          src="/img/avatar_huae8cb8a397d1d3d4e0956f943f3bc6ea_363109_288x288_fill_box_center_3.png"
         />
       
     
     <h1 class="text-4xl font-extrabold">
-      Carlos Retamero Diaz
+      Carlos Retamero Díaz
     </h1>
     
       <h2 class="text-xl text-neutral-500 dark:text-neutral-400">
-        Carlos&rsquo;s tech corner. Where the magic takes place.
+        I like tinkering with technology.
       </h2>
     
     <div class="mt-1 text-2xl">
@@ -839,140 +605,32 @@
         >
       
     
+      
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="https://www.linkedin.com/in/carlos-retamero/"
+          target="_blank"
+          aria-label="Linkedin"
+          rel="me noopener noreferrer"
+          ><span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+
+  </span>
+
+</span></a
+        >
+      
+    
   </div>
 
 
     </div>
   </header>
-  <section class="prose dark:prose-invert"><p>This is a demo site built entirely using Blowfish. It also contains a complete set of [theme documentation]</p>
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    
-
-  <span class="relative inline-block align-text-bottom icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
-
-  </span>
-
-
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">This is a demo of the <code id="layout">background</code> layout.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Switch layout &orarr;
-    </button>
-  </span>
-</div>
-<p>Explore Carlos' tech corner where I ramble about the projects I&rsquo;m busy with.</p>
+  <section class="prose dark:prose-invert"><p>Explore Carlos&rsquo; tech corner where I ramble about the things I&rsquo;m tinkering with.</p>
 </section>
 </article>
-<section>
-  
-
-
-</section>
-
-</div>
-<div id="card" style="display:none">
-  <div class="relative pt-16 pb-32">
-    <div aria-hidden="true" class="absolute inset-x-0 top-0 h-48 bg-gradient-to-b from-gray-100"></div>
-    <div class="relative">
-        <div class="lg:mx-auto lg:grid lg:max-w-7xl lg:grid-flow-col-dense lg:grid-cols-2 lg:gap-24 lg:px-8">
-            <div class="mx-auto max-w-xl px-4 sm:px-6 lg:mx-0 lg:max-w-none lg:py-16 lg:px-0">
-                <article class="max-w-full prose dark:prose-invert">
-                    
-                      <header>
-                        <h1>Welcome to Carlos' Tech Corner! where the magic takes place. 🎉</h1>
-                      </header>
-                    
-                    <section><p>This is a demo site built entirely using Blowfish. It also contains a complete set of [theme documentation]</p>
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    
-
-  <span class="relative inline-block align-text-bottom icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
-
-  </span>
-
-
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">This is a demo of the <code id="layout">background</code> layout.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Switch layout &orarr;
-    </button>
-  </span>
-</div>
-<p>Explore Carlos' tech corner where I ramble about the projects I&rsquo;m busy with.</p>
-</section>
-                  </article>
-            </div>
-            <div class="mt-6 sm:mt-16 lg:mt-0 mx-auto max-w-xl px-4 sm:px-6 lg:mx-0 lg:max-w-none lg:py-16 lg:px-0">
-                <div class="-mr-48 md:-mr-16 lg:relative lg:m-0 lg:h-full lg:px-0" style="width:100%">
-                    
-                    
-                    
-                    
-                    <img class="w-full rounded-xl shadow-xl lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
-                        src="/img/ocean.jpg">
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<section>
-    
-
-
-</section>
-</div>
-<div id="page" style="display:none">
-  <article class="max-w-full prose dark:prose-invert">
-  
-    <header>
-      <h1>Welcome to Carlos' Tech Corner! where the magic takes place. 🎉</h1>
-    </header>
-  
-  <section><p>This is a demo site built entirely using Blowfish. It also contains a complete set of [theme documentation]</p>
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    
-
-  <span class="relative inline-block align-text-bottom icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
-
-  </span>
-
-
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">This is a demo of the <code id="layout">background</code> layout.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Switch layout &orarr;
-    </button>
-  </span>
-</div>
-<p>Explore Carlos' tech corner where I ramble about the projects I&rsquo;m busy with.</p>
-</section>
-</article>
-<section>
-  
-
-
-</section>
-
-</div>
 <section>
   
 
@@ -982,62 +640,30 @@
 
 <h2 class="mt-8 text-2xl font-extrabold mb-10">Recent</h2>
 
-<div class="flex mb-6 px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-    <span class="flex items-center justify-between grow dark:text-neutral-300">
-        <span class="prose dark:prose-invert">This is a demo of theme's list configurations: <code
-                id="config">card view</code></span>
-        <button id="switch-config-button"
-            class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
-            Switch config &orarr;
-        </button>
-    </span>
-</div>
 
-<div id="CardViewProse" class="h-full">
-    
-
-
-<section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
   
-</section>
-</div>
-
-<div id="CardViewScreenWidth" class="hidden h-full">
-    
-
-
-<div class="relative w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
-  <section
-    class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
-    
-  </section>
-</div>
-</div>
-
-<div id="NormalView" class="hidden h-full">
-    
 
 
 <section class="space-y-10 w-full">
   
 </section>
-</div>
+
 
 
 
 
 
 <div class="mt-10 flex justify-center">
-    <a href="posts">
-        <button
-            class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">Show
-            More</button>
-    </a>
+  <a href="/posts">
+    <button
+      class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
+      Show More
+    </button>
+  </a>
 </div>
 
 
 </section>
-<script defer type="text/javascript" src="/js/home.min.2871a359698610496e7f0460ff5eb7e5eb143aade638f4b9a6c6abd59afeaa0f963efe12485dcaf4dfd88c6932711cc3b77eee894c11d19900c25e30f9c4961a.js" integrity="sha512-KHGjWWmGEElufwRg/1635esUOq3mOPS5psar1Zr&#43;qg&#43;WPv4SSF3K9N/YjGkycRzDt37uiUwR0ZkAwl4w&#43;cSWGg=="></script>
 
   
 
@@ -1060,6 +686,11 @@
             title="Tags">Tags</a>
         </li>
         
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/categories/"
+            title="Categories">Categories</a>
+        </li>
+        
       </ul>
     </nav>
     
@@ -1071,19 +702,11 @@
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
       &copy;
       2023
-      Carlos Retamero Diaz
+      Carlos Retamero Díaz
     </p>
     
 
     
-    
-    <p class="text-xs text-neutral-500 dark:text-neutral-400">
-      
-      
-      Powered by <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-        href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a> &amp; <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-        href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>
-    </p>
     
 
   </div>
@@ -1098,7 +721,7 @@
   </script>
   
   
-  <script type="text/javascript" src="/js/process.min.d836b489a45bffaed02affef469dc781911093c17ac7e121d202f83b8d70851d11fd2131d16237b2524fb1087234800afa0e42fcf043825ac1846a1916976240.js" integrity="sha512-2Da0iaRb/67QKv/vRp3HgZEQk8F6x&#43;Eh0gL4O41whR0R/SEx0WI3slJPsQhyNIAK&#43;g5C/PBDglrBhGoZFpdiQA=="></script>
+  <script type="text/javascript" src="/js/process.min.35c1113bcc16c5a59bf031082f9e63822aa95280423881a7847a7ff33a16e6299ce6a840d9ef4e10d947e030a18f3f20359afb2ec0f35967484b9a9360ac3145.js" integrity="sha512-NcERO8wWxaWb8DEIL55jgiqpUoBCOIGnhHp/8zoW5imc5qhA2e9OENlH4DChjz8gNZr7LsDzWWdIS5qTYKwxRQ=="></script>
   
   
   <a rel="me" href="https://masto.ai/@blowfish"></a>
