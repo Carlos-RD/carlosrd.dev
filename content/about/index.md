@@ -19,14 +19,13 @@ showLikes = false
 layoutBackgroundHeaderSpace = false
 +++
 ## About me
-
-Greetings! I'm a native of Spain, born and raised in a household where electronics were a constant presence. My father's electronic endeavors, fueled by an 80286 PC running MS-DOS 6.2 and Norton Explorer, were a significant part of my upbringing. I found myself helping my father create printed circuit boards and solder the components, even though I never quite delved into the fundamentals of electronics. The shoemaker's son always goes barefoot.
+<div style="text-align: justify"> Greetings! I'm a native of Spain, born and raised in a household where electronics were a constant presence. My father's electronic endeavors, fueled by an 80286 PC running MS-DOS 6.2 and Norton Explorer, were a significant part of my upbringing. I found myself helping my father create printed circuit boards and solder the components, even though I never quite delved into the fundamentals of electronics. The shoemaker's son always goes barefoot, I guess...
 
 Around 19 years ago, I made the decision to study telecommunications and networking. It marked the beginning of my professional journey. I started working at local ISPs, simultaneously pursuing my Cisco CCNA certificate. This opened doors to supporting WAN networks, which in turn led to years of intense battles with ATM, T1/T3, and metro Ethernet lines. A decade later, an opportunity presented itself, behold the network security field.
 
-During this phase, I returned to university to delve into information systems and management. Here, I absorbed the theories about how information systems align with business objectives and the intricacies of organizational management. However, my passion for the technical side of things (getting them hands dirty)  never waned. This led me to pursue a master's degree in computer science with a focus on cybersecurity.
+During this phase, I returned to university to delve into information systems and management. Here, I absorbed the theories about how information systems align with business objectives and the intricacies of organizational management. However, my passion for the technical side of things ("getting them hands dirty")  never waned. This led me to pursue a master's degree in computer science with a focus on cybersecurity.
 
-Fast forward to today, and you'll find me spending more time in meetings discussing spreadsheets and pie charts than navigating the CLI. This is precisely why this space was created: a humble attempt on my part to continue wrestling with technology, creating something new, and pulling out a few hairs in the process.
+Fast forward to today, and you'll find me spending more time in meetings discussing spreadsheets and pie charts than navigating the CLI. This is precisely why this space was created: a humble attempt on my part to continue wrestling with technology, creating something new, and pulling out a few hairs in the process.</div>
 
 ---
 
@@ -36,9 +35,9 @@ Fast forward to today, and you'll find me spending more time in meetings discuss
         <tr>
             <th>Company</th>
             <th>Website</th>
+             <th>Location</th>
             <th>Position</th>
             <th>Dates</th>
-            <th>Location</th>
         </tr>
     </thead>
     <tbody>
@@ -47,33 +46,33 @@ Fast forward to today, and you'll find me spending more time in meetings discuss
             <td rowspan=4><a href="https://secureops.com/" target="_blank">SecureOps</a></td>
         </tr>
            <tr>
+           <td rowspan=2>Montreal,<br>CAN</td>
             <td>Manager of Infrastructure Support</td>
             <td>2021 - Present</td>
-             <td rowspan=2>Montreal,<br>CAN</td>
         </tr>
         <tr>
             <td>Network Secrurity Team Lead</td>
             <td>2018 - 2021</td>
          </tr>
         <tr>
+            <td>Prague,<br>CZE</td>
             <td>Network Security Engineer</td>
             <td>2017 - 2018</td>
-             <td>Prague, <br>CZE</td>
         <tr>
             <td><img class="customEntitityLogo" src="symantec.png"/></td>
             <td><a href="https://www.broadcom.com/products/cybersecurity" target="_blank">Symantec</a></td>
+            <td>Prague,<br>CZE</td>
             <td>Technical Support Engineer</td>
             <td>2016 - 2017</td>
-            <td>Prague,<br>CZE</td>
         </tr>
          <tr>
             <td rowspan=4><img class="customEntitityLogo" src="att.png"/></td>
             <td rowspan=4><a href="https://www.att.com/" target="_blank">AT&T</a></td>
         </tr>
         <tr>
+            <td rowspan=3>Brno,<br>CZE</td>
             <td>Network Operations Team Leader</td>
             <td>2013 - 2016</td>
-             <td rowspan=3>Brno, <br>CZE</td>
         </tr>
         <tr>
             <td>Network Specialist</td>
@@ -85,10 +84,10 @@ Fast forward to today, and you'll find me spending more time in meetings discuss
         </tr>
            <tr>
             <td><img class="customEntitityLogo" src="nostracom.png"/></td>
-            <td><a href="https://www.crunchbase.com/organization/nostracom-telecomunicaciones target="_blank">Nostracom Telecomunicaciones</a></td>
+            <td><a href="https://www.crunchbase.com/organization/nostracom-telecomunicaciones target="_blank">Nostracom<br>Telecomunicaciones</a></td>
+            <td>Granada,<br>ESP</td>
             <td>Network Field Technician</td>
             <td>2007 - 2008</td>
-            <td>Granada, ESP</td>
         </tr> 
     </tbody>
 </table>

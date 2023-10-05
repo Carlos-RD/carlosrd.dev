@@ -71,7 +71,7 @@ smartTOCHideUnfocusedChildren = false
   showAuthorsBadges = true 
   showWordCount = false
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter"]#, "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
+  sharingLinks = [ "linkedin", "twitter"]#, "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email" ]
 
 [list]
   showHero = false
@@ -81,7 +81,7 @@ smartTOCHideUnfocusedChildren = false
   showBreadcrumbs = false
   showSummary = false
   showViews = true
-  showLikes = true
+  showLikes = false
   showTableOfContents = true
   showCards = true
   groupByYear = false

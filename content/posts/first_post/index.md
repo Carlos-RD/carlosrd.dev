@@ -1,12 +1,10 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "First Post"
+date: 2023-10-04T21:36:44-04:00
 draft: false 
 description: ""
 categories:
-- 
-tags:
-- 
+
 showDate : true
 showDateUpdated : true
 showHeadingAnchors : false
@@ -23,4 +21,8 @@ showLikes: false
 layoutBackgroundHeaderSpace: false
 #groupByYear : false
 
+
+tags:
+
 ---
+<div style="text-align: justify">This is my first post! </div>
