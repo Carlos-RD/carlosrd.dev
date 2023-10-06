@@ -32,7 +32,7 @@ Please come along with me to my personal blog and join me on my technological ad
 
 It started with a desire to sharpen my Linux skills. So, like any self-respecting nerd, I did what needed to be done - I bought a second-hand Lenovo Thinkpad (mine's a T480S) and installed Linux on it. Initially, I tried Fedora, which brought back memories of my [academic years](https://carlosrd.dev/about/#academic-education). However, after a brief wrestling match with the [fingerprint sensor](https://gist.github.com/borcean/f32c47f6cc52cee33dfc2265ce63f777) (about five minutes, to be precise), I decided to settle down with [Pop!\_OS](https://pop.system76.com/). That, and the fact that I'm more comfortable with Debian-based distros (apt FTW!).
 
-![Lenovo T480S](lenovo.jpeg "The beast.") 
+![Lenovo T480S](lenovo.jpeg) 
 
 ## What am I intending to do?
 
