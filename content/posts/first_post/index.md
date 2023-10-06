@@ -32,9 +32,20 @@ Please come along with me to my personal blog and join me on my technological ad
 
 It started with a desire to sharpen my Linux skills. So, like any self-respecting nerd, I did what needed to be done - I bought a second-hand Lenovo Thinkpad (mine's a T480S) and installed Linux on it. Initially, I tried Fedora, which brought back memories of my [academic years](https://carlosrd.dev/about/#academic-education). However, after a brief wrestling match with the [fingerprint sensor](https://gist.github.com/borcean/f32c47f6cc52cee33dfc2265ce63f777) (about five minutes, to be precise), I decided to settle down with [Pop!\_OS](https://pop.system76.com/). That, and the fact that I'm more comfortable with Debian-based distros (apt FTW!).
 
+{{< figure
+    src="lenovo.jpg"
+    alt="The beast."
+    caption="The beast."
+    >}}
+
 ## What am I intending to do?
 
-Now that I have a Linux-running computer, what's next? The logical step, it seems, is to create a personal blog where I can share my [my projects](/projects/) and track my progress. So I started delving into the worlds of Digitalocean VPS, NGINX, Github, Markdown, and Hugo. And if that weren't enough, I'm daring to work exclusively using Vim because, well, I like to live dangerously, and I might be a bit of a masochist.
+Now that I have a Linux-running computer, what's next? The logical step, it seems, is to create a personal blog where I can share my [my projects](/projects/) and track my progress. So I started delving into the worlds of Digitalocean VPS, NGINX, Github, Markdown and Hugo. And if that weren't enough, I'm daring to work exclusively using Vim because, well, I like to live dangerously and I might be a bit of a masochist.
+
+{{< figure
+    src="vim.jpg"
+    alt="They don't know I use Vim"
+    >}}
 
 ## What have I learned so far?
 
