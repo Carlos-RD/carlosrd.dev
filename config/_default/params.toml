@@ -30,7 +30,7 @@ smartTOCHideUnfocusedChildren = false
 [footer]
   showMenu = true
   showCopyright = true
-  showThemeAttribution = false
+  showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
 
@@ -50,7 +50,7 @@ smartTOCHideUnfocusedChildren = false
   showViews = true
   showLikes = true
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   showHero = false
   #heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
@@ -71,7 +71,7 @@ smartTOCHideUnfocusedChildren = false
   showAuthorsBadges = true 
   showWordCount = false
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter"]#, "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email" ]
+  sharingLinks = [ "linkedin", "twitter"] #"reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
 
 [list]
   showHero = false

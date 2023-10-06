@@ -6,6 +6,7 @@ draft = false
 showDate = true
 showDateUpdated = true
 showHeadingAnchors = false
+showAuthor = true
 showPagination = false
 showReadingTime = true
 showTableOfContents = true

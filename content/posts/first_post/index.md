@@ -16,7 +16,7 @@ showWordCount : false
 showSummary : false
 sharingLinks : false
 showEdit: false
-showViews: true
+showViews: false
 showLikes: false
 layoutBackgroundHeaderSpace: false
 #groupByYear : false
