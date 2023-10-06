@@ -43,12 +43,6 @@ Now that I have a Linux-running computer, what's next? The logical step, it seem
 2. Because of this and my affinity for not paying for things, I decided to ditch the email server and host the webpage on [GitHub instead](https://gohugo.io/hosting-and-deployment/hosting-on-github/). Maybe not as sophisticated but it does the job for now. 
 3. Vim's learning curve is steeper than I initially thought. Quickly I learned that, in order to succeed with this task, one needs to map the CapsLock key to Esc to prevent severe left-hand injuries.
 
-## What are the next actions? 
-
-Continue tinkering with Hugo and Bluefish so I make this site more aesthetically pleasing. I really need to brush up my markdown and HTML skills. 
-I need to creating a system to streamline the post creation process and minimize any resistance. This will allow me to be more constant and therefore productive. 
-I believe (hope) sticking with using Vim will yield results in the future. 
-
 ## What are the next steps?
 
 1. Work on creating a streamlined system for post creation to minimize resistance, making me more consistent and, therefore, more productive. 

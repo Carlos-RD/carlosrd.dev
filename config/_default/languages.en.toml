@@ -11,7 +11,7 @@ title = "Carlos' Tech Corner"
   #logo = "img/logo.gif"
   secondaryLogo = "img/avatar.png"
   description = "Carlos' tech corner"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "Avatar images generated using [Hotpot.ai](https://hotpot.ai/)"
 
 [author]
   name = "Carlos Retamero Díaz"
