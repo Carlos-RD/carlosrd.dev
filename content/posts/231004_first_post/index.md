@@ -50,6 +50,6 @@ Now that I have a Linux-running computer, what's next? The logical step, it seem
 ## What are the next steps?
 
 1. Work on creating a streamlined system for post creation to minimize resistance, making me more consistent and, therefore, more productive. 
-2. Continue tinkering with Hugo and [Bluefish](https://blowfish.page/docs/) to make this site more aesthetically pleasing. My markdown and HTML skills could use some sprucing up. 
+2. Continue tinkering with Hugo and [Blowfish](https://blowfish.page/docs/) to make this site more aesthetically pleasing. My markdown and HTML skills could use some sprucing up. 
 3. And as for Vim, I believe (or at least hope) that sticking with it will yield promising results in the future. For now, I’ll play with [VimGenius](http://www.vimgenius.com/) whenever I find a couple of minutes to spare.
 4. I have never setup Firebase. I guess the time to change that has come. </div>
