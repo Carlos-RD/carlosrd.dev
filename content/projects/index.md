@@ -23,6 +23,34 @@ layoutBackgroundHeaderSpace: false
 
 This is a list of technologies and tools I’m currently trying to learn and the reasons why I choose to do so: 
 
+## 2024 
+<table>
+    <thead>
+        <tr>
+            <th>Technology</th>
+            <th>Website</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+         <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="cissp.png"/></td>
+            <td><a target="_blank" href="https://www.isc2.org/certifications/cissp/">ICS2<br>CISSP</a></td>
+            <td>This is the year I get CISSP certified. I promise! Maybe.td>
+        </tr>
+           <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="nvim.png"/></td>
+            <td><a target="_blank" href="https://neovim.io/">Neovim</a></td>
+            <td>Installed <a target"_blank" href="https://nvchad.com/">Nvchad</a> because I'm lazy and I don't want to spend an eteternity fighting with LUA</td>
+        </tr>
+            <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="python.png"/></td>
+            <td><a target="_blank" href="https://www.python.org/">Python</a></td>
+            <td>I'm ready to delve into the world of automating spreadsheets and reports.</td>
+        </tr>
+    </tbody>
+</table>
+
 ## 2023 
 
 <table>
@@ -69,5 +97,8 @@ This is a list of technologies and tools I’m currently trying to learn and the
             <td><a target="_blank" href="https://www.isc2.org/certifications/cissp/">ICS2<br>CISSP</a></td>
             <td>Hopefully the tools above help me create a system that allows me to obtain the Certified Information Systems Security Professional (CISSP) certification. I guess I will need to find other excuses to continue procrastinating.</td>
         </tr>
+    </tbody>
+</table>
+<table>
     </tbody>
 </table>
