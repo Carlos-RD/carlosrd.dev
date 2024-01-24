@@ -13,8 +13,8 @@ showTaxonomies : false
 showWordCount : false
 showSummary : false
 sharingLinks : false
-showEdit: false
-showViews: true
+showEdit: false  
+showViews: false
 showLikes: false
 layoutBackgroundHeaderSpace: false
 #groupByYear : false
