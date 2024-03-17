@@ -2,31 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to Carlos&#39; Tech Corner! where the magic takes place. :tada: on Carlos&#39; Tech Corner</title>
-    <link>https://carlosrd.dev/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome to Carlos&#39; Tech Corner! where the magic takes place. :tada: on Carlos&#39; Tech Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Carlos Retamero Díaz</copyright>
-    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://carlosrd.dev/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Avatar images generated using [Hotpot.ai](https://hotpot.ai/)</copyright>
+    <lastBuildDate>Wed, 11 Oct 2023 20:13:54 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a System</title>
+      <link>http://localhost:1313/posts/20231011_system/</link>
+      <pubDate>Wed, 11 Oct 2023 20:13:54 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/20231011_system/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/20231011_system/featured.png" />
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/231004_first_post/</link>
+      <pubDate>Wed, 04 Oct 2023 21:36:44 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/231004_first_post/</guid>
+      <description>Please come along with me to my personal blog and join me on my technological adventures. Consider this my way of staying connected with technology and attempting to create something different and new to me.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/231004_first_post/Featured.png" />
+    </item>
+    
     <item>
       <title>About</title>
-      <link>https://carlosrd.dev/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 30 Aug 2023 22:14:06 -0400</pubDate>
       
-      <guid>https://carlosrd.dev/about/</guid>
-      <description>About Professional Experience Company Website Position Dates Location SecureOps Manager of Infrastructure Support 2021 - Present Montreal,
-CAN Network Secrurity Team Lead 2018 - 2021 Network Security Engineer 2017 - 2018 Prague, CZE Symantec Technical Support Engineer 2016 - 2017 Prague,</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About me Greetings! I&#39;m a native of Spain, born and raised in a household where electronics were a constant presence. My father&#39;s electronic endeavors, fueled by an 80286 PC running MS-DOS 6.</description>
       
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://carlosrd.dev/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
       
-      <guid>https://carlosrd.dev/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description>This is a list of technologies and tools I’m currently trying to learn and the reasons why I choose to do so:
-2023 Technology Website Description Markdown Markup language to create technical documentation.</description>
+2024 Technology Website Description ICS2
+CISSP This is the year I get CISSP certified.</description>
       
     </item>
     

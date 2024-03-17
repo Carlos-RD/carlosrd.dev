@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Carlos&#39; Tech Corner</title>
-    <link>https://carlosrd.dev/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Carlos&#39; Tech Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Carlos Retamero Díaz</copyright>
-    <atom:link href="https://carlosrd.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Avatar images generated using [Hotpot.ai](https://hotpot.ai/)</copyright>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -58,7 +58,7 @@ Fast forward to today, and you'll find me spending more time in meetings discuss
         <tr>
             <td>Prague,<br>CZE</td>
             <td>Network Security Engineer</td>
-            <td>2017 - 2018</td>
+            <td>2018 - 2018</td>
         <tr>
             <td><img class="customEntitityLogo" src="symantec.png"/></td>
             <td><a href="https://www.broadcom.com/products/cybersecurity" target="_blank">Symantec</a></td>
