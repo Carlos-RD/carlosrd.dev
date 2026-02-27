@@ -4,9 +4,8 @@
     <title>Tags on Carlos&#39; Tech Corner</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Carlos&#39; Tech Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Avatar images generated using [Hotpot.ai](https://hotpot.ai/)</copyright>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
