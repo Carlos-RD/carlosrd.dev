@@ -15,7 +15,7 @@ copyright = "Avatar images generated using Nano Banana"
 
 
 [params.author]
-name = "Carlos Retamero Díaz"
+name = ""
   image = "img/avatar.png"
   headline = "A place for gadgets, ideas and side quests."
   bio = "I tinker with things and stuff."
