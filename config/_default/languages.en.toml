@@ -1,0 +1,28 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "CarlosRD Sandbox"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+secondaryLogo = "img/avatar.png"
+dateFormat = "2 January 2006"
+description = "CarlosRD Sandbox - A place for gadgets, ideas and side quests"
+copyright = "Avatar images generated using Nano Banana"
+
+
+[params.author]
+name = "Carlos Retamero Díaz"
+  image = "img/avatar.png"
+  headline = "A place for gadgets, ideas and side quests."
+  bio = "I tinker with things and stuff."
+  links = [
+    { linkedin = "https://www.linkedin.com/in/carlos-retamero/"},
+    { github = "https://github.com/Carlos-RD/" },
+    { twitter = "https://twitter.com/carlosretamero" },
+    
+    ]
+
