@@ -26,9 +26,9 @@ layoutBackgroundHeaderSpace = false
         <tr>
             <th>Company</th>
             <th>Website</th>
-             <th>Location</th>
             <th>Position</th>
             <th>Dates</th>
+            <th>Location</th>
         </tr>
     </thead>
     <tbody>
