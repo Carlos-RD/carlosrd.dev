@@ -8,14 +8,14 @@ title = "CarlosRD Sandbox"
 displayName = "EN"
 isoCode = "en"
 rtl = false
-secondaryLogo = "img/avatar.png"
+#logo = "img/sandbox.png"
 dateFormat = "2 January 2006"
 description = "CarlosRD Sandbox - A place for gadgets, ideas and side quests"
 copyright = "Avatar images generated using Nano Banana"
 
 
 [params.author]
-name = ""
+name = "Carlos Retamero Díaz"
   image = "img/avatar.png"
   headline = "A place for gadgets, ideas and side quests."
   bio = "I tinker with things and stuff."

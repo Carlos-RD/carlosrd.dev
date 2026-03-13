@@ -33,52 +33,54 @@ layoutBackgroundHeaderSpace = false
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4><img class="customEntitityLogo" src="sops.png"/></td>
+            <td rowspan=4><img class="customEntitityLogo" 
+            style="background-color:transparent" 
+            src="sops.png"/></td>
             <td rowspan=4><a href="https://secureops.com/" target="_blank">SecureOps</a></td>
         </tr>
            <tr>
-           <td rowspan=2>Montreal,<br>CAN</td>
             <td>Manager of Infrastructure Support</td>
             <td>2021 - 2025</td>
+            <td rowspan=2>Montreal, CAN</td>
         </tr>
         <tr>
             <td>Network Secrurity Team Lead</td>
-            <td>2018 - 2021</td>
+            <td>2020 - <br>2021</td>
          </tr>
         <tr>
-            <td>Prague,<br>CZE</td>
-            <td>Network Security Engineer</td>
-            <td>2018 - 2018</td>
+            <td>Network Security Engineer and Team Lead</td>
+            <td>2018 - 2019</td>
+            <td>Prague,<br> CZE</td>
         <tr>
-            <td><img class="customEntitityLogo" src="symantec.png"/></td>
+            <td><img class="customEntitityLogo" style="background-color:transparent" src="symantec.png"/></td>
             <td><a href="https://www.broadcom.com/products/cybersecurity" target="_blank">Symantec</a></td>
-            <td>Prague,<br>CZE</td>
             <td>Technical Support Engineer</td>
             <td>2016 - 2017</td>
+            <td>Prague, <br>CZE</td>
         </tr>
          <tr>
-            <td rowspan=4><img class="customEntitityLogo" src="att.png"/></td>
+            <td rowspan=4><img class="customEntitityLogo" style="background-color:transparent"  src="att.png"/></td>
             <td rowspan=4><a href="https://www.att.com/" target="_blank">AT&T</a></td>
         </tr>
         <tr>
-            <td rowspan=3>Brno,<br>CZE</td>
             <td>Network Operations Team Leader</td>
-            <td>2013 - 2016</td>
+            <td>2013 - <br>2016</td>
+            <td rowspan=3>Brno, <br>CZE</td>
         </tr>
         <tr>
             <td>Network Specialist</td>
-            <td>2012 - 2013</td>
+            <td>2012 - <br>2013</td>
          </tr>
         <tr>
             <td>Network Analyst</td>
-            <td>2010 - 2012</td>
+            <td>2010 - <br>2012</td>
         </tr>
            <tr>
-            <td><img class="customEntitityLogo" src="nostracom.png"/></td>
+            <td><img class="customEntitityLogo" style="background-color:transparent" src="nostracom.png"/></td>
             <td><a href="https://www.crunchbase.com/organization/nostracom-telecomunicaciones target="_blank">Nostracom<br>Telecomunicaciones</a></td>
-            <td>Granada,<br>ESP</td>
             <td>Network Field Technician</td>
             <td>2007 - 2008</td>
+            <td>Granada, ESP</td>
         </tr> 
     </tbody>
 </table>
@@ -179,11 +181,18 @@ layoutBackgroundHeaderSpace = false
         <tr>
             <td>Blue Coat Certified PacketShaper Professional</td>
             <td>BCPSP-5.0.1-43327</td>
-            <td rowspan=2>2016</td>   
+            <td>2016</td>   
         </tr>
-        <tr>
             <td>Blue Coat Certified PacketShaper Administrator</td>
             <td>BCPSA-5.0.1-43319</td>
+            <td>2016</td>
+        </tr>
+          <tr>
+            <td><img class="customEntitityLogo" style="background-color:transparent"  src="juniper.png"/></td>
+            <td><a href="https://www.juniper.net/" target="_blank">Juniper Networks</a></td>        
+            <td>Juniper Networks Certified Associate (JNCIA-Junos)</td>
+            <td>a4a493b7-59e1-40f2-8778-e1cd56fb1326</td>
+            <td>2013</td>  
         </tr>
         <tr>
             <td rowspan=5><img class="customEntitityLogo" style="background-color:transparent"  src="cisco.png"/></td>
