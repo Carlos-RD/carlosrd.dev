@@ -38,7 +38,7 @@ It started with a desire to sharpen my Linux skills. So, like any self-respectin
 
 Now that I have a Linux-running computer, what's next? The logical step, it seems, is to create a personal blog where I can share my [my projects](/projects/) and track my progress. So I started delving into the worlds of Digitalocean VPS, NGINX, Github, Markdown and Hugo. And if that weren't enough, I'm daring to work exclusively using Vim because, well, I like to live dangerously and I might be a bit of a masochist.
 
-![Vim meme](vim.jpg)
+![Vim meme](vim.jpg#center)
 
 ## What have I learned so far?
 
