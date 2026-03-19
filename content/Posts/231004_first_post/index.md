@@ -4,23 +4,6 @@ date: 2023-10-04T21:36:44-04:00
 draft: false 
 description: "My first post"
 categories: technology
-showAuthor : false
-showDate : true
-showDateUpdated : true
-showHeadingAnchors : false
-showPagination : false
-showReadingTime : true
-showTableOfContents : true
-showTaxonomies : true 
-showWordCount : false
-showSummary : false
-sharingLinks : false
-showEdit: false
-showViews: false
-showLikes: false
-layoutBackgroundHeaderSpace: false
-#groupByYear : false
-
 tags:
 ---
 

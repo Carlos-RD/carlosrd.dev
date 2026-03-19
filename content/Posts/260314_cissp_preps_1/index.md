@@ -3,11 +3,8 @@ title: "CISSP Preps"
 date: 2026-03-14
 draft: false
 description: "CISSP Preps and stuff"
-categories: infosec
-tags: 
-showAuthor: false
-showTaxonomies: true
-showTableOfContents: true
+categories: ["infosec"]
+tags: ["cissp"]
 ---
 <div style="text-align: justify">
 

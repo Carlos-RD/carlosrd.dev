@@ -2,22 +2,7 @@
 title = "About me"
 date = 2026-03-12T19:34:06-04:00
 draft = false 
-
-showDate = true
-showDateUpdated = true
-showHeadingAnchors = false
 showAuthor = true
-showPagination = false
-showReadingTime = true
-showTableOfContents = true
-showTaxonomies = false 
-showWordCount = false
-showSummary = false
-sharingLinks = false
-showEdit = false
-showViews = false
-showLikes = false
-layoutBackgroundHeaderSpace = false
 +++
 <div style="text-align: justify"> Greetings! I'm a native of Spain, born and raised in a household where electronics were a constant presence. My father's electronic endeavors, fueled by an 80286 PC running MS-DOS 6.2 and Norton Explorer, were a significant part of my upbringing. I found myself helping my father create printed circuit boards and solder the components, even though I never quite delved into the fundamentals of electronics. The shoemaker's son always goes barefoot, I guess...
 
