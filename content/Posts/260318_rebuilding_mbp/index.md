@@ -34,10 +34,6 @@ manage [Homebrew](https://brew.sh/) packages, and as my window manager.
 
 ![Raycast](raycast.jpeg#center "Quick snapshot of my app and window management shortcuts")
 
-### Shottr 
-
-[Shottr](https://shottr.cc/) is my go to for taking and annotating screenshots.
-
 ### iTerm2 + Oh My Zsh + Powerlevel10k
 
 [iTerm2](https://iterm2.com/) is my terminal of choice. This time I went with [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous/) as my font.
@@ -63,17 +59,22 @@ potential, but I'll get there if I stick with it!
 
 ### GNU Stow
 
-[GNU Stow](https://www.gnu.org/software/stow/) to manage my [dotfiles](https://github.com/Carlos-RD/dotfiles).
+[GNU Stow](https://www.gnu.org/software/stow/) so I don't go crazy managing my [dotfiles](https://github.com/Carlos-RD/dotfiles). 
 
 ### Hidden Bar
 
 To keep the menu bar nice and clean. 
 
-### Go, Hugo, Blowfish
+### Go + Hugo + Blowfish
 
 Install [Go](https://go.dev/doc/install), [Hugo](https://gohugo.io/installation/macos/) and [Blowfish](https://blowfish.page/docs/installation/) so I can start blogging again. 
 
-## Wallpaper & Music
+### Shottr 
 
-Perhaps the most crucial step of the whole process is setting your favority wallpaper and install your music player platform. Et voilà! We are off to the races! 
+[Shottr](https://shottr.cc/) is my go to for taking and annotating screenshots.
+
+## Wallpaper
+
+Perhaps the most crucial step of the whole process is setting your favorite wallpaper and installing your music player platform. Et voilà! We are off to the races! 
+
 </div>
