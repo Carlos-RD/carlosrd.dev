@@ -5,6 +5,8 @@ draft: false
 description: "CISSP Preps and stuff"
 categories: ["infosec"]
 tags: ["cissp"]
+series: ["CISSP"]
+series_order: 1
 ---
 <div style="text-align: justify">
 

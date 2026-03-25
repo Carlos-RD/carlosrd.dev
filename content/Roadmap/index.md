@@ -1,12 +1,13 @@
 ---
-title: "Projects"
+title: "Roadmap"
 date: 2022-06-13T20:55:37+01:00
 draft: false
 ---
 
-This is a list of technologies and tools I’m currently trying to learn and the reasons why I choose to do so: 
+This is a living document to track the things I’m working on:
 
-## 2026 
+## 2026
+
 <table>
     <thead>
         <tr>
@@ -50,7 +51,7 @@ This is a list of technologies and tools I’m currently trying to learn and the
     </tbody>
 </table>
 
-## 2023 
+## 2023
 
 <table>
     <thead>
