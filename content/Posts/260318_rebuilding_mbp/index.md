@@ -66,9 +66,14 @@ potential, but I'll get there if I stick with it!
 [GNU Stow](https://www.gnu.org/software/stow/) to manage my [dotfiles](https://github.com/Carlos-RD/dotfiles).
 
 ### Hidden Bar
-To keep the bar nice and tidy. 
+
+To keep the menu bar nice and clean. 
+
+### Go, Hugo, Blowfish
+
+Install [Go](https://go.dev/doc/install), [Hugo](https://gohugo.io/installation/macos/) and [Blowfish](https://blowfish.page/docs/installation/) so I can start blogging again. 
 
 ## Wallpaper & Music
 
-Set your wallpaper of choice, install Youtube music et voilà! We are off to the races! 
+Perhaps the most crucial step of the whole process is setting your favority wallpaper and install your music player platform. Et voilà! We are off to the races! 
 </div>
