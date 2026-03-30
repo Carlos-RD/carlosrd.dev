@@ -1,5 +1,5 @@
 ---
-title: "CISSP Preps"
+title: "CISSP Preps: Part 1 - Gathering the Materials"
 date: 2026-03-14
 draft: false
 description: "CISSP Preps and stuff"
@@ -12,7 +12,7 @@ series_order: 1
 
 Well hello there! This post is to share how my preparations to get the CISSP have gone so far. I'd like to share my experience, but take this with a grain of salt until I get my exam score with a pass.
 
-## Gathering the materials
+## Materials: The Gathering
 
 So these are the materials I've been using:
 
