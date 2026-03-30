@@ -43,7 +43,7 @@ I find this exam to be more of a comprehension test than anything else. Comprehe
 | Conservancy                       | Preserve evidence                                                                 |
 | Contract breach                   | If related to a contract (not data), failure to meet obligations                  |
 | Critiqued the data                | Maintained data integrity                                                         |
-| Data Reliability                  | Data Integrity                                                                    |
+| Data reliability                  | Data integrity                                                                    |
 | Defacement                        | Unauthorized modification, vandalism                                             |
 | Determine Parameters              | Determine the scope in the requirements phase in SDLC                             |
 | Disparate                         | Different                                                                         |
@@ -69,7 +69,7 @@ I find this exam to be more of a comprehension test than anything else. Comprehe
 | Plaintiff                         | Party taking the case to court (complainant, accuser, petitioner, claimant)       |
 | Preservation of data              | Data integrity                                                                    |
 | Provenance                        | History of evidence (Chain of custody)                                            |
-| Quality of Data                   | Data Integrity                                                                    |
+| Quality of data                   | Data integrity                                                                    |
 | Relinquish                        | Give information voluntarily                                                      |
 | Scrutiny                          | Attention to details                                                              |
 | Subpoenaed to testify             | Required to provide testimony                                                     |
@@ -77,12 +77,12 @@ I find this exam to be more of a comprehension test than anything else. Comprehe
 | Substantiation                    | Authentication                                                                    |
 | System requirements               | Non functional requirements (How the systems should do things)                   |
 | Systemic risk                     | Potential of a single event to cause a massive outage                             |
-| Ufeterred                         | Unrestricted                                                                      |
+| Unfettered                         | Unrestricted                                                                      |
 | Unbeknownst                       | Unknown                                                                           |
 | Under the commission of           | With authorization to                                                             |
 | Unrest                            | Public anger, people going rabble, rabble, rabble!               |
 | Uphold integrity                  | Consistent                                                                        |
-| Veracity of data                  | Data Integrity                                                                    |
+| Veracity of data                  | Data integrity                                                                    |
 | Verbiage                          | Excessively technical expressions (this list)                                     |
 | Vetted                            | Process of investigating, validating, verifying and evaluating                    |
 
