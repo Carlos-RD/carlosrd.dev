@@ -30,7 +30,7 @@ I find this particularly difficult. Some questions are written with a lot of irr
 
 I find this exam to be more of a comprehension test than anything else. Comprehension of the 8 Domains and the English language. To add an extra layer of difficulty, questions use fancy terms to ask about relatively straightforward concepts. I find myself confused often. Partly because English is my second language, and partly because I'm a bit illiterate myself. QE's advice is to "don't get held up on verbiage too much." yeah... right! So I've been taking notes on words that confused me and put together a table I call the "Illustrated to Plantpot Conversion Chart: Fancy Terms and What They Probably Mean." There you can find my interpretation of what these fancy (and spicy!) terms actually (probably) mean.
 
-| Fancy Term                   | What they probably mean                                                          |
+| Fancy Terms                   | What they probably mean                                                          |
 |-----------------------------------|-----------------------------------------------------------------------------------|
 | Abridge                           | Reduce or shorten                                                                 |
 | Adjudicate                        | Evaluate or resolve something                                               |
@@ -61,7 +61,7 @@ I find this exam to be more of a comprehension test than anything else. Comprehe
 | Leverage vulnerabilities          | Exploit vulnerabilities                                                          |
 | Litigation                        | Involved in a lawsuit                                                             |
 | Lucid                             | Easy to understand (unlike the words in this list)                                |
-| Misrepresentation of facts        | Threat to data integrity and authenticity. What non-repudiation tries to prevent. |
+| Misrepresentation of facts        | Threat to data integrity and authenticity. What non-repudiation tries to prevent |
 | Obtain credence                   | Get authorization                                                                 |
 | One way cryptography              | Hashing                                                                           |
 | Overhaul                          | Rebuild or redesign                                                               |
