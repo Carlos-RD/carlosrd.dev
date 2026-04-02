@@ -1,7 +1,7 @@
 +++
 title = "CISSP Preps: Part 3 - Cram before the exam"
 date = 2026-04-02
-draft = true
+draft = false 
 description = "CISSP Preps: Part 3 - Cram before the exam"
 categories = ["infosec"]
 tags = ["cissp"]
