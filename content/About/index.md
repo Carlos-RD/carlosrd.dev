@@ -2,7 +2,7 @@
 title = "About"
 date = 2026-03-12T19:34:06-04:00
 draft = false 
-description: "About"
+description = "About"
 showAuthor = true
 +++
 <div style="text-align: justify"> 
