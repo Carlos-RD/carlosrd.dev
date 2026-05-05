@@ -1,6 +1,7 @@
 +++
 title = "Curriculum Vitae"
 date = 2026-03-12T19:24:06-04:00
+lastmod = 2026-05-05
 draft = false 
 showAuthor = true
 +++
@@ -102,7 +103,7 @@ showAuthor = true
     </tbody>
 </table>
 
-## Certifications 
+## [Certifications](https://www.credly.com/users/carlos-retamero-diaz.638bf66b) 
 
 <table>
     <thead>
@@ -120,7 +121,7 @@ showAuthor = true
             <td ><a href="https://www.isc2.org/certifications/cissp/" target="_blank">ICS2</a></td>   
            <td>Certified Information System Security Professional (CISSP)</td>
             <td></td>
-            <td >WIP</td>   
+            <td >2026</td>   
         </tr>
          <tr>
             <td ><img class="customEntitityLogo" style="background-color:white" src="comptia.png"/></td>
@@ -139,7 +140,7 @@ showAuthor = true
     </tbody>
 </table>
 
-## Past Certifications 
+## [Past Certifications](https://www.credly.com/users/carlos-retamero-diaz.638bf66b) 
 
 <table>
     <thead>
@@ -204,7 +205,7 @@ showAuthor = true
              <td>2009</td>
          </tr>
            <tr>
-            <td ><img class="customEntitityLogo" style="background-color:white" src="microsoft.png"/></td>
+            <td ><img class="customEntitityLogo" style="background-color:white" src="microsoft.png"/><a href="https://www.microsoft.com/" target="_blank"><p style="text-align:center">Microsoft</p></a></td>   
             <td ><a href="https://www.microsoft.com/" target="_blank">Microsoft</a></td>   
            <td>Microsoft Certified Systems Engineer Windows Server 2003</td>
             <td></td>

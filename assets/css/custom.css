@@ -151,3 +151,8 @@ img[src$='#floatright']
     margin: 0.5rem;      /* this margin is totally up to you */
     /* whatever else styles you fancy here */
 }
+
+figure figcaption {
+    border: 1px dotted blue;
+    text-align: center;
+}
