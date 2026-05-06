@@ -109,7 +109,6 @@ showAuthor = true
     <thead>
         <tr>
             <th>Vendor</th>
-            <th>Website</th>
             <th>Certificate</th>
             <th>Certificate #</th>
             <th>Date</th>
@@ -117,52 +116,25 @@ showAuthor = true
     </thead>
     <tbody>
         <tr>
-            <td ><img class="customEntitityLogo" style="background-color:white" src="cissp.png"/></td>
-            <td ><a href="https://www.isc2.org/certifications/cissp/" target="_blank">ICS2</a></td>   
+            <td ><img class="customEntitityLogo" style="background-color:white" src="cissp.png"/><a href="https://www.isc2.org/certifications/cissp/" target="_blank"></a></td> </td>  
            <td>Certified Information System Security Professional (CISSP)</td>
-            <td></td>
-            <td >2026</td>   
+           <td></td>
+            <td>2026</td>   
         </tr>
          <tr>
-            <td ><img class="customEntitityLogo" style="background-color:white" src="comptia.png"/></td>
-            <td ><a href="hhttps://www.comptia.org/" target="_blank">CompTIA</a></td>   
-           <td>CompTIA Security+ (SY0-601)</td>
-            <td>COMP001021087384</td>
-            <td >2017</td>   
-        </tr>
-        <tr>
-            <td><img class="customEntitityLogo" style="background-color:white" src="itil.png"/></td>
-            <td><a href="https://www.axelos.com/certifications/itil-service-management" target="_blank">Axelos</a></td>   
-           <td>ITIL® 3: Foundation Certificate in IT Service Management</td>
-            <td>5159572.20319561</td>
-            <td >2014</td>   
-        </tr>  
-    </tbody>
-</table>
-
-## [Past Certifications](https://www.credly.com/users/carlos-retamero-diaz.638bf66b) 
-
-<table>
-    <thead>
-        <tr>
-            <th>Vendor</th>
-            <th>Website</th>
-            <th>Certificate</th>
-            <th>Certificate #</th>
-            <th>Date</th>
-        </tr>
-    </thead>
-    <tbody>
-           <tr>
-            <td ><img class="customEntitityLogo" style="background-color:white" src="palo.png"/></td>
-            <td ><a href="https://www.paloaltonetworks.com/ target="_blank">Palo Alto Networks</a></td>   
+            <td ><a href="https://www.paloaltonetworks.com/ target="_blank"><img class="customEntitityLogo" style="background-color:white" src="palo.png"/></a></td> 
            <td>Palo Alto Networks Accredited Systems Engineer (PSE): Foundation Accreditation Exam</td>
             <td></td>
             <td >2020</td>   
         </tr>
+         <tr>
+            <td ><img class="customEntitityLogo" style="background-color:white" src="comptia.png"/><a href="hhttps://www.comptia.org/" target="_blank"></a></td>   
+           <td>CompTIA Security+ (SY0-601)</td>
+            <td>COMP001021087384</td>
+            <td >2017</td>   
+        </tr>
       <tr>
-            <td rowspan=3><img class="customEntitityLogo" style="background-color:white" src="bluecoat.png"/></td>
-            <td rowspan=3><a href="https://www.broadcom.com/products/cybersecurity" target="_blank">Blue Coat Systems</a></td>   
+            <td rowspan=3><img class="customEntitityLogo" style="background-color:white" src="bluecoat.png"/><a href="https://www.broadcom.com/products/cybersecurity" target="_blank"></a></td>
         </tr>
         <tr>
             <td>Blue Coat Certified PacketShaper Professional</td>
@@ -173,16 +145,19 @@ showAuthor = true
             <td>BCPSA-5.0.1-43319</td>
             <td>2016</td>
         </tr>
+        <tr>
+            <td><img class="customEntitityLogo" style="background-color:white" src="itil.png"/><a href="https://www.axelos.com/certifications/itil-service-management" target="_blank"></a></td> 
+           <td>ITIL® 3: Foundation Certificate in IT Service Management</td>
+            <td>5159572.20319561</td>
+            <td >2014</td>   
           <tr>
-            <td><img class="customEntitityLogo" style="background-color:white" src="juniper.png"/></td>
-            <td><a href="https://www.juniper.net/" target="_blank">Juniper Networks</a></td>        
+            <td><img class="customEntitityLogo" style="background-color:white" src="juniper.png"/><a href="https://www.juniper.net/" target="_blank"></a></td>
             <td>Juniper Networks Certified Associate (JNCIA-Junos)</td>
             <td>a4a493b7-59e1-40f2-8778-e1cd56fb1326</td>
             <td>2013</td>  
         </tr>
         <tr>
-            <td rowspan=5><img class="customEntitityLogo" style="background-color:white" src="cisco.png"/></td>
-            <td rowspan=5><a href="https://www.cisco.com/" target="_blank">Cisco Systems</a></td>   
+            <td rowspan=5><img class="customEntitityLogo" style="background-color:white" src="cisco.png"/><a href="https://www.cisco.com/" target="_blank"></td></a>
         </tr>
         <tr>
             <td>Cisco Certified Networking Professional Service Provider (CCNP - 642)</td>
@@ -205,8 +180,7 @@ showAuthor = true
              <td>2009</td>
          </tr>
            <tr>
-            <td ><img class="customEntitityLogo" style="background-color:white" src="microsoft.png"/><a href="https://www.microsoft.com/" target="_blank"><p style="text-align:center">Microsoft</p></a></td>   
-            <td ><a href="https://www.microsoft.com/" target="_blank">Microsoft</a></td>   
+            <td ><img class="customEntitityLogo" style="background-color:white" src="microsoft.png"/><a href="https://www.microsoft.com/" target="_blank"></a></td>   
            <td>Microsoft Certified Systems Engineer Windows Server 2003</td>
             <td></td>
             <td >2010</td>   

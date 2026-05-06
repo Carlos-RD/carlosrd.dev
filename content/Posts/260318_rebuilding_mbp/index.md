@@ -14,6 +14,18 @@ in case I need to configure another Mac from scratch. Hopefully it helps you as 
 ## Configure MacOS Preferences
 
 I start by configuring system preferences while updates are being installed in the background.
+  
+  1. Desktop & Dock > Disable "Click wallpaper to reveal desktop" and "Show widgets"
+  2. Enable: "Automatically hide and show the dock". Disable: "Animate opening applications" and "Show suggested and recent apps in Dock"
+  2. Map Caps Lock to ESC: System Settings > Keyboard > Modifier Keys 
+
+Configure Finder settings: 
+
+  1. General: New finder window set to home folder. Show as list. 
+  2. Tags: Remove tags 
+  3. Sidebar: Disable recents. Rearrange icon order
+  4. Advanced: Set When performing search to "current folder".
+  5. Finder > View > show pathbar and status bar. 
 
 ## Install Applications
 
