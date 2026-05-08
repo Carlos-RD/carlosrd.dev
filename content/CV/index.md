@@ -1,7 +1,7 @@
 +++
 title = "Curriculum Vitae"
 date = 2026-03-12T19:24:06-04:00
-lastmod = 2026-05-05
+lastmod = 2026-05-08
 draft = false 
 showAuthor = true
 +++
@@ -105,6 +105,8 @@ showAuthor = true
 
 ## [Certifications](https://www.credly.com/users/carlos-retamero-diaz.638bf66b) 
 
+Check my certifications on [Credly](https://www.credly.com/users/carlos-retamero-diaz.638bf66b). 
+
 <table>
     <thead>
         <tr>
@@ -118,7 +120,7 @@ showAuthor = true
         <tr>
             <td ><img class="customEntitityLogo" style="background-color:white" src="cissp.png"/><a href="https://www.isc2.org/certifications/cissp/" target="_blank"></a></td> </td>  
            <td>Certified Information System Security Professional (CISSP)</td>
-           <td></td>
+           <td>2871760</td>
             <td>2026</td>   
         </tr>
          <tr>

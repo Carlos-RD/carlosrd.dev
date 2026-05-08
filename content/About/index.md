@@ -1,7 +1,7 @@
 +++
 title = "About"
 date = 2023-11-12T19:34:06-04:00
-lastmod = 2026-05-06
+lastmod = 2026-05-08
 draft = false 
 description = "About"
 showAuthor = true
@@ -16,7 +16,9 @@ After dropping out of my physics degree (majoring in electronics), I decided to 
 
 I eventually went back to university to study Information Systems and Management, submerging myself in the theoretical side of how information systems align with business objectives and the intricacies of management. During this period I pivoted to cybersecurity, delving into Network Security and dipping my tippy toes into the world of Malware Analysis. Time passed and I eventually landed in a managerial role. However, my passion for the technical side of things (getting my hands dirty) never waned. That led me to pursue a master's degree in Computer Science with Cybersecurity.
 
-Motivated by people in the IndieWeb like [Nuno Coração](https://n9o.xyz/), [Shellsharks](https://shellsharks.com/you-should-blog) and [Autumn Skerritt](https://skerritt.blog/), I decided to build my own page: a humble attempt to embrace my creative side, keep wrestling with technology, learn along the way, and get better at documenting things.
+Motivated by people in the IndieWeb like [Nuno Coração](https://n9o.xyz/), [Michael Sass' Shellsharks](https://shellsharks.com/you-should-blog) and [Autumn Skerritt](https://skerritt.blog/), I decided to build my own page: a humble attempt to embrace my creative side, keep wrestling with technology, learn along the way, and get better at documenting things. Here I started writing about how I organized my studying to obtain the [CISSP]({{% tagref "cissp" %}}) certification. You can check the [roadmap](/roadmap/index.md) section to see what I'm currently tinkering with.
+
+Outside the world of screens and CLIs, you can find me listening to a myriad of music styles and going to concerts. I enjoy exploring new cultures through food and travel. I have been lucky enough to travel around the world (Montréal → Málaga → Prague → Manila → Osaka → Kyoto → Tokyo → Montréal) with nothing but a backpack holding my work laptop and a carry-on with a few clothes in it. I enjoy capturing street graffiti and architecture through photography. I also collect and play Magic: The Gathering, poorly. Lastly, in the pursiot of becoming a better version of myself, I spend time delving into science based podcasts and picking up heavy iron things just to put them back down.
 
 Thanks for stopping by and joining me on this journey.
 
