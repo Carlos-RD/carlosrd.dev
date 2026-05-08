@@ -118,20 +118,25 @@ Check my certifications on [Credly](https://www.credly.com/users/carlos-retamero
     </thead>
     <tbody>
         <tr>
-            <td ><img class="customEntitityLogo" style="background-color:white" src="cissp.png"/><a href="https://www.isc2.org/certifications/cissp/" target="_blank"></a></td> </td>  
+        <tr>
+            <td ><img class="customEntitityLogo" style="background-color:white" src="PECB.png"/><a href="https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27001/iso-iec-27001-lead-auditor" target="_blank"></a></td>
+           <td>ISO/IEC 27001 Lead Auditor<td>
+           <td>WIP</td>   
+        </tr>
+            <td ><img class="customEntitityLogo" style="background-color:white" src="cissp.png"/><a href="https://www.isc2.org/certifications/cissp/" target="_blank"></a></td>  
            <td>Certified Information System Security Professional (CISSP)</td>
            <td>2871760</td>
             <td>2026</td>   
         </tr>
          <tr>
-            <td ><a href="https://www.paloaltonetworks.com/ target="_blank"><img class="customEntitityLogo" style="background-color:white" src="palo.png"/></a></td> 
+            <td ><img class="customEntitityLogo" style="background-color:white" src="palo.png"/></td> 
            <td>Palo Alto Networks Accredited Systems Engineer (PSE): Foundation Accreditation Exam</td>
             <td></td>
             <td >2020</td>   
         </tr>
          <tr>
             <td ><img class="customEntitityLogo" style="background-color:white" src="comptia.png"/><a href="hhttps://www.comptia.org/" target="_blank"></a></td>   
-           <td>CompTIA Security+ (SY0-601)</td>
+           <td>CompTIA Security+ (SY0-701)</td>
             <td>COMP001021087384</td>
             <td >2017</td>   
         </tr>
