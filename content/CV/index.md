@@ -125,7 +125,7 @@ Check my certifications on [Credly](https://www.credly.com/users/carlos-retamero
         </tr>
             <td ><img class="customEntitityLogo" style="background-color:white" src="cissp.png"/><a href="https://www.isc2.org/certifications/cissp/" target="_blank"></a></td>  
            <td>Certified Information System Security Professional (CISSP)</td>
-           <td>2871760</td>
+           <td>[Credly](https://www.credly.com/users/carlos-retamero-diaz.638bf66b) </td>
             <td>2026</td>   
         </tr>
          <tr>
