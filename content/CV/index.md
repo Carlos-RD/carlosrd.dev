@@ -112,32 +112,27 @@ Check my certifications on [Credly](https://www.credly.com/users/carlos-retamero
         <tr>
             <th>Vendor</th>
             <th>Certificate</th>
-            <th>Certificate #</th>
             <th>Date</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-        <tr>
             <td ><img class="customEntitityLogo" style="background-color:white" src="PECB.png"/><a href="https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27001/iso-iec-27001-lead-auditor" target="_blank"></a></td>
-           <td>ISO/IEC 27001 Lead Auditor<td>
+           <td>ISO/IEC 27001 Lead Auditor</td>
            <td>WIP</td>   
         </tr>
             <td ><img class="customEntitityLogo" style="background-color:white" src="cissp.png"/><a href="https://www.isc2.org/certifications/cissp/" target="_blank"></a></td>  
            <td>Certified Information System Security Professional (CISSP)</td>
-           <td>[Credly](https://www.credly.com/users/carlos-retamero-diaz.638bf66b) </td>
             <td>2026</td>   
         </tr>
          <tr>
             <td ><img class="customEntitityLogo" style="background-color:white" src="palo.png"/></td> 
            <td>Palo Alto Networks Accredited Systems Engineer (PSE): Foundation Accreditation Exam</td>
-            <td></td>
             <td >2020</td>   
         </tr>
          <tr>
             <td ><img class="customEntitityLogo" style="background-color:white" src="comptia.png"/><a href="hhttps://www.comptia.org/" target="_blank"></a></td>   
            <td>CompTIA Security+ (SY0-701)</td>
-            <td>COMP001021087384</td>
             <td >2017</td>   
         </tr>
       <tr>
@@ -145,22 +140,18 @@ Check my certifications on [Credly](https://www.credly.com/users/carlos-retamero
         </tr>
         <tr>
             <td>Blue Coat Certified PacketShaper Professional</td>
-            <td>BCPSP-5.0.1-43327</td>
             <td>2016</td>   
         </tr>
             <td>Blue Coat Certified PacketShaper Administrator</td>
-            <td>BCPSA-5.0.1-43319</td>
             <td>2016</td>
         </tr>
         <tr>
             <td><img class="customEntitityLogo" style="background-color:white" src="itil.png"/><a href="https://www.axelos.com/certifications/itil-service-management" target="_blank"></a></td> 
            <td>ITIL® 3: Foundation Certificate in IT Service Management</td>
-            <td>5159572.20319561</td>
             <td >2014</td>   
           <tr>
             <td><img class="customEntitityLogo" style="background-color:white" src="juniper.png"/><a href="https://www.juniper.net/" target="_blank"></a></td>
             <td>Juniper Networks Certified Associate (JNCIA-Junos)</td>
-            <td>a4a493b7-59e1-40f2-8778-e1cd56fb1326</td>
             <td>2013</td>  
         </tr>
         <tr>
@@ -168,28 +159,23 @@ Check my certifications on [Credly](https://www.credly.com/users/carlos-retamero
         </tr>
         <tr>
             <td>Cisco Certified Networking Professional Service Provider (CCNP - 642)</td>
-            <td>CSO11614597</td>
             <td >2015</td>   
         </tr>
         <tr>
-            <td>Cisco Certified Networking Professional Routing and Switching (CCNP - 642)</td>
-            <td>CSO11614597</td>
+            <td>Cisco Certified Networking Professional Routing & Switching (CCNP - 642)</td>
             <td >2012</td>   
         </tr>
         <tr>
-            <td>Cisco Certified Networking Associate Routing and Switching (CCNA - 640)</td>
-            <td>CSO11614597</td>
+            <td>Cisco Certified Networking Associate Routing & Switching (CCNA - 640)</td>
             <td >2009</td>   
         </tr>
         <tr>    
             <td>Cisco Certified Entry Networking Technician (CCENT - 640)</td>
-            <td>CSO11614597</td>
              <td>2009</td>
          </tr>
            <tr>
             <td ><img class="customEntitityLogo" style="background-color:white" src="microsoft.png"/><a href="https://www.microsoft.com/" target="_blank"></a></td>   
            <td>Microsoft Certified Systems Engineer Windows Server 2003</td>
-            <td></td>
             <td >2010</td>   
         </tr>
     </tbody>
