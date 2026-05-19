@@ -1,8 +1,8 @@
 ---
-title: "CISSP Preps: Part 1 - Gathering the Materials"
+title: "CISSP Preps: Part 1 - Gathering the materials"
 date: 2026-03-14
 draft: false
-description: "CISSP Preps and stuff"
+description: "CISSP Preps Materials the Gathering"
 categories: ["infosec"]
 tags: ["cissp"]
 series: ["CISSP"]
