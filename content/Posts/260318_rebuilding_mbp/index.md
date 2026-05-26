@@ -17,15 +17,15 @@ I start by configuring system preferences while updates are being installed in t
   
   1. Desktop & Dock > Disable "Click wallpaper to reveal desktop" and "Show widgets"
   2. Enable: "Automatically hide and show the dock". Disable: "Animate opening applications" and "Show suggested and recent apps in Dock"
-  2. Map Caps Lock to ESC: System Settings > Keyboard > Modifier Keys 
+  3. Map Caps Lock to ESC: System Settings > Keyboard > Modifier Keys
 
-Configure Finder settings: 
+### Configure Finder settings
 
-  1. General: New finder window set to home folder. Show as list. 
-  2. Tags: Remove tags 
+  1. General: New finder window set to home folder. Show as list.
+  2. Tags: Remove tags
   3. Sidebar: Disable recents. Rearrange icon order
   4. Advanced: Set When performing search to "current folder".
-  5. Finder > View > show pathbar and status bar. 
+  5. Finder > View > show pathbar and status bar.
 
 ## Install Applications
 
@@ -96,4 +96,3 @@ Install [Go](https://go.dev/doc/install), [Hugo](https://gohugo.io/installation/
 Perhaps the most crucial step of the whole process is setting your favorite wallpaper and installing your music player platform. Et voilà! We are off to the races!
 
 </div>
-
