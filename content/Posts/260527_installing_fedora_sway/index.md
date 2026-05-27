@@ -4,7 +4,7 @@ lastmod = "2026-05-27"
 draft = false
 title = "Installing Fedora Sway"
 categories = ["technology"]
-tags = ["Linux"]
+tags = ["linux"]
 +++
 <div style="text-align: justify">
 
