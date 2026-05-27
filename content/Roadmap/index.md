@@ -25,9 +25,10 @@ This is a living document to keep track of the things I’m currently working on
 ## Blog Backlog
 
 - Write post about:
-  - Deploying Fedora Sway
+  - Finish writting Fedora Sway post
   - Minimalism
   - PECB ISO 27001 Lead Auditor
+- Add copy buttom to code blocks
 - Add currently reading section {{<icon "check">}}
 - Rewrite tables on Roadmap and [CV section](/cv/index.md) {{< icon "check" >}}
 - Create a blog roadmap {{< icon "check" >}}
