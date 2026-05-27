@@ -8,7 +8,7 @@ tags = ["linux"]
 +++
 <div style="text-align: justify">
 
-This is a similar post to Rebuilding my MacBook, but this time I'll keep track of how I've installed Fedora Sway on my T480s. I was running Pop!_OS before and although pretty much everything worked out of the box, I decided to complicate my life a little bit more in the name of science and "fuckraroundery". I chose Fedora mainly out of nostalgia. If memory serves me well, Fedora Core 2 was the distro I was taught on during my Telecom diploma circa 2004. It was the first time I ever used Linux and I had no idea what I was doing. I guess that hasn't changed… but I’m working on it!
+This is a similar post to [Rebuilding my MacBook](/Posts/260318_rebuilding_mbp/), but this time I'll keep track of how I've installed Fedora Sway on my T480s. I was [running Pop!_OS before](/posts/231004_first_post/) and although pretty much everything worked out of the box, I decided to complicate my life a little bit more in the name of science and *"fuckraroundery"*. I chose Fedora mainly out of nostalgia. If memory serves me well, Fedora Core 2 was the distro I was taught on during my Telecom diploma circa 2004. It was the first time I ever used Linux and I had no idea what I was doing. I guess that hasn't changed…  but I’m working on it!
 
 I'm not sure going the atomic route was the right call, as it introduces other layers of complexity. But so far I'm happy, and I've particularly enjoyed the workflow Sway provides, even if it comes out of the box with a very minimalistic configuration. I'm basically on my own trying to make things work. Fun!
 
@@ -16,7 +16,7 @@ I'll keep this post as a living document and update it as things change.
 
 ## Adding packages to the base
 
-This is the first time I've run an atomic OS, so I'm not too familiar with how things should be configured. The way I understand it is that the base system should be kept as clean as possible, with everything managed via Flatpaks for GUI apps or Toolbox for CLI tools.  So I decided to install Alacrity (my terminal of choice for now) along with tmux, C compilers and the tools needed to install Mullvad and Brew, which apparently doesn't mess up much with the “atomic way of doing things”.
+This is the first time I've run an [atomic OS](https://fedoraproject.org/atomic-desktops/), so I'm not too familiar with how things should be set up. The way I understand it is that the base system should be kept as clean as possible, with everything managed via Flatpaks for GUI apps or Toolbox for CLI tools.  So I decided to install [Alacrity](https://alacritty.org/) (my terminal of choice for now) along with tmux, C compilers and the tools needed to install Mullvad and Brew, which apparently doesn't mess up much with the “atomic way of doing things”.
 
 ```Shell
 rpm-ostree install gcc gcc-c++ glibc-langpack-en tmux alacritty
@@ -62,7 +62,7 @@ GNU Stow can then be installed via brew.
 
 ## Make the shell look prettier
 
-Sway is very minimalistic out of the box. Going down the rabbit hole of ricing and making things look better is an odyssey in itself. After a quick research session, I decided to go with Starship, Iosevka fonts, and Gruvbox.
+Sway is very minimalistic out of the box. Going down the rabbit hole of ricing and making things look better is an odyssey in itself. After a quick research session, I decided to go with [Starship](https://starship.rs/), [Iosevka](https://typeof.net/Iosevka/) fonts, and [Gruvbox material](https://github.com/sainnhe/gruvbox-material) colour theme.
 
 ### Configure nerd fonts
 
@@ -131,6 +131,8 @@ style = "Regular"
 ```
 
 ### Starship
+
+Minimalistic shell prompt written in Rust!
 
 ```Shell
 curl -sS https://starship.rs/install.sh | sh
