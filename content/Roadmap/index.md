@@ -1,7 +1,7 @@
 ---
 title: "Roadmap"
 date: 2026-03-12
-lastmod: 2026-05-26
+lastmod: 2026-06-19
 draft: false
 ---
 <div style="text-align: justify">
@@ -37,7 +37,7 @@ This is a living document to keep track of the things I’m currently working on
 
 - Level One: The Complete Course by Reid Duke
 - The Richest Man in Babylon by George Samuel Clason
-- Switch On Your Brain: The Key to Peak Happiness, Thinking, and Health by Caroline Leaf
+- Switch On Your Brain: The Key to Peak Happiness, Thinking, and Health by Caroline Leaf {{<icon "check">}}
 - CISSP: The Last Mile by Pete Zerger {{<icon "check">}}
 - ISC2 CISSP Certified Information Systems Security Professional Official Study Guide by Mike Chapple, James Michael Stewart, Darril Gibson {{<icon "check">}}
 - The subtle art of not giving a fuck by Mark Manson {{< icon "check">}}

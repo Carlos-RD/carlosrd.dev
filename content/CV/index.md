@@ -7,6 +7,7 @@ showAuthor = true
 +++
 
 ## Professional Experience  
+
 <table>
     <thead>
         <tr>
@@ -19,7 +20,7 @@ showAuthor = true
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4><img class="customEntitityLogo" 
+            <td rowspan=4><img class="customEntitityLogo"
             style="background-color:white"
             src="sops.png"/></td>
             <td rowspan=4><a href="https://secureops.com/" target="_blank">SecureOps</a></td>
@@ -67,11 +68,12 @@ showAuthor = true
             <td>Network Field Technician</td>
             <td>2007 - 2008</td>
             <td>Granada, ESP</td>
-        </tr> 
+        </tr>
     </tbody>
 </table>
 
 ## Academic Education
+
 <table>
     <thead>
         <tr>
@@ -103,9 +105,9 @@ showAuthor = true
     </tbody>
 </table>
 
-## [Certifications](https://www.credly.com/users/carlos-retamero-diaz.638bf66b) 
+## [Certifications](https://www.credly.com/users/carlos-retamero-diaz.638bf66b)
 
-Check my certifications on [Credly](https://www.credly.com/users/carlos-retamero-diaz.638bf66b). 
+Check my certifications on [Credly](https://www.credly.com/users/carlos-retamero-diaz.638bf66b).
 
 <table>
     <thead>
@@ -119,36 +121,41 @@ Check my certifications on [Credly](https://www.credly.com/users/carlos-retamero
         <tr>
             <td ><img class="customEntitityLogo" style="background-color:white" src="PECB.png"/><a href="https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27001/iso-iec-27001-lead-auditor" target="_blank"></a></td>
            <td>ISO/IEC 27001 Lead Auditor</td>
-           <td>WIP</td>   
+           <td>WIP</td>
+        </tr>
+            <tr>
+            <td ><img class="customEntitityLogo" style="background-color:white" src="27701.png"/><a href=https://learn.mastermindassurance.com/products/courses/iso-27701-lead-auditor" target="_blank"></a></td>
+           <td>ISO/IEC 27701 Lead Auditor</td>
+           <td>2026</td>
         </tr>
             <td ><img class="customEntitityLogo" style="background-color:white" src="cissp.png"/><a href="https://www.isc2.org/certifications/cissp/" target="_blank"></a></td>  
            <td>Certified Information System Security Professional (CISSP)</td>
-            <td>2026</td>   
+            <td>2026</td>
         </tr>
          <tr>
-            <td ><img class="customEntitityLogo" style="background-color:white" src="palo.png"/></td> 
+            <td ><img class="customEntitityLogo" style="background-color:white" src="palo.png"/></td>
            <td>Palo Alto Networks Accredited Systems Engineer (PSE): Foundation Accreditation Exam</td>
-            <td >2020</td>   
+            <td >2020</td>
         </tr>
          <tr>
-            <td ><img class="customEntitityLogo" style="background-color:white" src="comptia.png"/><a href="hhttps://www.comptia.org/" target="_blank"></a></td>   
+            <td ><img class="customEntitityLogo" style="background-color:white" src="comptia.png"/><a href="hhttps://www.comptia.org/" target="_blank"></a></td>
            <td>CompTIA Security+ (SY0-701)</td>
-            <td >2017</td>   
+            <td >2017</td>
         </tr>
       <tr>
             <td rowspan=3><img class="customEntitityLogo" style="background-color:white" src="bluecoat.png"/><a href="https://www.broadcom.com/products/cybersecurity" target="_blank"></a></td>
         </tr>
         <tr>
             <td>Blue Coat Certified PacketShaper Professional</td>
-            <td>2016</td>   
+            <td>2016</td>
         </tr>
             <td>Blue Coat Certified PacketShaper Administrator</td>
             <td>2016</td>
         </tr>
         <tr>
-            <td><img class="customEntitityLogo" style="background-color:white" src="itil.png"/><a href="https://www.axelos.com/certifications/itil-service-management" target="_blank"></a></td> 
+            <td><img class="customEntitityLogo" style="background-color:white" src="itil.png"/><a href="https://www.axelos.com/certifications/itil-service-management" target="_blank"></a></td>
            <td>ITIL® 3: Foundation Certificate in IT Service Management</td>
-            <td >2014</td>   
+            <td >2014</td>
           <tr>
             <td><img class="customEntitityLogo" style="background-color:white" src="juniper.png"/><a href="https://www.juniper.net/" target="_blank"></a></td>
             <td>Juniper Networks Certified Associate (JNCIA-Junos)</td>
@@ -159,24 +166,24 @@ Check my certifications on [Credly](https://www.credly.com/users/carlos-retamero
         </tr>
         <tr>
             <td>Cisco Certified Networking Professional Service Provider (CCNP - 642)</td>
-            <td >2015</td>   
+            <td >2015</td>
         </tr>
         <tr>
             <td>Cisco Certified Networking Professional Routing & Switching (CCNP - 642)</td>
-            <td >2012</td>   
+            <td >2012</td>
         </tr>
         <tr>
             <td>Cisco Certified Networking Associate Routing & Switching (CCNA - 640)</td>
-            <td >2009</td>   
+            <td >2009</td>
         </tr>
-        <tr>    
+        <tr>
             <td>Cisco Certified Entry Networking Technician (CCENT - 640)</td>
              <td>2009</td>
          </tr>
            <tr>
-            <td ><img class="customEntitityLogo" style="background-color:white" src="microsoft.png"/><a href="https://www.microsoft.com/" target="_blank"></a></td>   
+            <td ><img class="customEntitityLogo" style="background-color:white" src="microsoft.png"/><a href="https://www.microsoft.com/" target="_blank"></a></td>
            <td>Microsoft Certified Systems Engineer Windows Server 2003</td>
-            <td >2010</td>   
+            <td >2010</td>
         </tr>
     </tbody>
 </table>
