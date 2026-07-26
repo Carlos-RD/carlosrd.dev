@@ -1,11 +1,12 @@
----
-title: "My First Post"
-date: 2023-10-04T21:36:44-04:00
-draft: false 
-description: "My first post"
-categories: technology
-tags:
----
++++
+title = "My First Post"
+date = 2023-10-04T21:36:44-04:00
+lastmod = "2026-07-26"
+draft = false 
+description = "My first post"
+categories = ["technology"]
+tags = ["linux"]
++++
 
 <div style="text-align: justify">
 
