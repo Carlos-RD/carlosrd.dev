@@ -4,7 +4,7 @@ draft = false
 title = "CISSP Preps: Part 2 - Questions answering strategy"
 description = "CISSP Preps 2. Questions were asked"
 categories = ["infosec"]
-tags = ["cissp"]
+tags = ["CISSP"]
 series = ["CISSP"]
 series_order = 2
 +++

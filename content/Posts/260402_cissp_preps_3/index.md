@@ -4,7 +4,7 @@ date = 2026-04-02
 draft = false 
 description = "CISSP Preps: Part 3 - Cram before the exam"
 categories = ["infosec"]
-tags = ["cissp"]
+tags = ["CISSP"]
 series = ["CISSP"]
 series_order = 3
 +++

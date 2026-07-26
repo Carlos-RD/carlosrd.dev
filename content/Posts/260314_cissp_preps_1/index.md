@@ -4,7 +4,7 @@ date: 2026-03-14
 draft: false
 description: "CISSP Preps Materials the Gathering"
 categories: ["infosec"]
-tags: ["cissp"]
+tags: ["CISSP"]
 series: ["CISSP"]
 series_order: 1
 ---

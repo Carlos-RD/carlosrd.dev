@@ -26,12 +26,12 @@ This is a living document to keep track of the things I’m currently working on
 
 - Write post about:
   - Finish writting Fedora Sway post
-  - Minimalism
-  - PECB ISO 27001 Lead Auditor
+  - [Minimalism](/posts/20260723_needing_less/index.md) {{<icon "check">}}
+  - [PECB ISO 27001 Lead Auditor](/posts/260720_iso27001_la_preps_1/index.md)
 - Add copy buttom to code blocks
 - Add currently reading section {{<icon "check">}}
-- Rewrite tables on Roadmap and [CV section](/cv/index.md) {{< icon "check" >}}
-- Create a blog roadmap {{< icon "check" >}}
+- Rewrite tables on Roadmap and [CV section](/cv/index.md) {{<icon "check">}}
+- Create a blog roadmap {{<icon "check">}}
 
 ## Currently Reading
 
@@ -41,5 +41,4 @@ This is a living document to keep track of the things I’m currently working on
 - CISSP: The Last Mile by Pete Zerger {{<icon "check">}}
 - ISC2 CISSP Certified Information Systems Security Professional Official Study Guide by Mike Chapple, James Michael Stewart, Darril Gibson {{<icon "check">}}
 - The subtle art of not giving a fuck by Mark Manson {{< icon "check">}}
-
 </div>
