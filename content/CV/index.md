@@ -118,10 +118,15 @@ Check my certifications on [Credly](https://www.credly.com/users/carlos-retamero
         </tr>
     </thead>
     <tbody>
-        <tr>
+    <tr>
             <td ><img class="customEntitityLogo" style="background-color:white" src="PECB.png"/><a href="https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27001/iso-iec-27001-lead-auditor" target="_blank"></a></td>
            <td>ISO/IEC 27001 Lead Auditor</td>
            <td>WIP</td>
+        </tr>
+     <tr>
+            <td ><img class="customEntitityLogo" style="background-color:white" src="Qualys.png"/><a href="https://www.qualys.com/training" target="_blank"></a></td>
+           <td>Vulnerability Management Detection and Response</td>
+           <td>2026</td>
         </tr>
             <tr>
             <td ><img class="customEntitityLogo" style="background-color:white" src="27701.png"/><a href=https://learn.mastermindassurance.com/products/courses/iso-27701-lead-auditor" target="_blank"></a></td>
