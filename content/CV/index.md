@@ -1,7 +1,7 @@
 +++
 title = "Curriculum Vitae"
 date = 2026-03-12T19:24:06-04:00
-lastmod = 2026-05-08
+lastmod = 2026-08-10
 draft = false 
 showAuthor = true
 +++
