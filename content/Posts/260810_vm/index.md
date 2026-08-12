@@ -1,5 +1,6 @@
 +++
 date = "2026-08-10T13:07:55+02:00"
+lastmod = "2026-08-12"
 draft = false
 title = "Stumbling on Vulnerability Management"
 description = "Stumbling on Vulnerability Management"
@@ -13,9 +14,12 @@ In the last few days, I've found myself in the recruitment process for a Vulnera
 
 [NIST Glossary](https://csrc.nist.gov/glossary) for further reference.
 
+- **Vulnerability:** Weakness of an asset that can be exploited by threats.  
+- **Attack Vector (AV):** Path used to break into an asset by exploiting a vulnerability.
 - **Attack Surface:** Total number of attack vectors (AVs) an actor can use to access a system.
+- **Risk:** Threat likelihood \* Vulnerability Severity \* Impact
 - **Risk Gap:** Time elapsed between the discovery and remediation of a vulnerability.
-- **CVE:** Common Vulnerabilities and Exposures. A system that provides a standard way of naming discovered vulnerabilities, formatted as CVE-\<Year>-\<Sequence Number>.
+- **CVE:** Common Vulnerabilities and Exposures. A system that provides a standard way of naming discovered vulnerabilities, formatted as CVE-\<Year Discovered>-\<Sequence Number>.
 - **CVSS:** Common Vulnerability Scoring System. Calculates the severity of a vulnerability.
 
 The lifecycle looks something like this: a researcher discovers a vulnerability and submits it to [CVE](https://www.cve.org/) → [FIRST](https://www.first.org/cvss/) assigns a CVSS score to the submitted CVE, and both are fed into the → [National Vulnerability Database](https://nvd.nist.gov/vuln/search#/nvd/home?resultType=records) → Vulnerability scanners _partially_ use this database to assign severity ratings. Let's look a bit deeper into the CVSS scoring system.
