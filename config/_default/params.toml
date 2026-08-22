@@ -35,13 +35,13 @@ showScrollToTop = true
 [homepage]
 layout = "background"
 showRecent = true
-showRecentItems = 5
-showMoreLink = false
+showRecentItems = 9
+showMoreLink = true
 showMoreLinkDest = "/posts/"
-cardView = false
+cardView = true
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
-disableHeroImageFilter = false
+layoutBackgroundBlur = true
+disableHeroImageFilter = true
 
 [article]
 showDate = true
