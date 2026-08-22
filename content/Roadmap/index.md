@@ -1,7 +1,7 @@
 ---
 title: "Roadmap"
 date: 2026-03-12
-lastmod: 2026-08-10
+lastmod: 2026-08-22
 draft: false
 ---
 <div style="text-align: justify">
@@ -26,19 +26,19 @@ This is a living document to keep track of the things I’m currently working on
 ## Blog Backlog
 
 - Write post about:
-  - Finish writting Fedora Sway post
+  - Finish writing Fedora Sway post
   - [Vulnerability Management](/posts/260810_vm/index.md) {{<icon "check">}}
   - [Minimalism](/posts/20260723_needing_less/index.md) {{<icon "check">}}
-  - [PECB ISO 27001 Lead Auditor](/posts/260720_iso27001_la_preps_1/index.md)
-- Add copy buttom to code blocks
+  - [PECB ISO 27001 Lead Auditor](/posts/260720_iso27001_la_preps_1/index.md) {{icon "check"}}
+- Add copy button to code blocks
 - Add currently reading section {{<icon "check">}}
 - Rewrite tables on Roadmap and [CV section](/cv/index.md) {{<icon "check">}}
 - Create a blog roadmap {{<icon "check">}}
 
 ## Currently Reading
 
-- Level One: The Complete Course by Reid Duke
 - The Richest Man in Babylon by George Samuel Clason
+- Level One: The Complete Course by Reid Duke {{icon "check"}}
 - Switch On Your Brain: The Key to Peak Happiness, Thinking, and Health by Caroline Leaf {{<icon "check">}}
 - CISSP: The Last Mile by Pete Zerger {{<icon "check">}}
 - ISC2 CISSP Certified Information Systems Security Professional Official Study Guide by Mike Chapple, James Michael Stewart, Darril Gibson {{<icon "check">}}
