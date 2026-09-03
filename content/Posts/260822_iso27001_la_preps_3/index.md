@@ -1,5 +1,6 @@
 +++
 date = "2026-08-22T19:12:42+02:00"
+lastmod = 2026-09-03
 draft = false
 title = "ISO 27001 Lead Auditor Preps: Part 3 — I Printed a Small Forest to Pass This Exam"
 description = "ISO 27001 Lead Auditor Preps: Part 3 — I Printed a Small Forest to Pass This Exam"
@@ -20,10 +21,19 @@ I [followed the plan](/posts/260726__iso27001_la_preps_2/#exam-planning) I share
 
 With PECB, the exam is open book, which means you can access the materials online via the PECB exam app or you can bring a hard copy of the materials. I read on Reddit that accessing the training materials during the exam is rather a pain in the ass, so I decided to print the documents and call it a day. Here's what I printed: all slides from day 1 to 4, plus the index. I **did not print** the quizzes, exercises, or the case study.
 
+## Exam experience 
+This was the first time I sat a certification exam from home, so I didn't know what to expect exactly. Dual monitors are not allowed, and PECB proctors the exam by overseeing your screen, video, and audio via their [PECB exams platform](https://pecb.com/en/pecb-exams) a piece of software that has to be installed prior to the exam. If you're sitting this exam, make sure you install the app and grant it the security privileges it needs beforehand.
+
+I was able to log into the platform 30 minutes before the exam start time. I proved my identity with an ID and had to show the examiner the room where I'd be sitting the exam. However, the exam only becomes available at the exact time it was booked, not earlier (downer, I wanted to start earlier and leave earlier). I made sure to remove my watch and take my phone and backpack out of the room before the exam started.
+
+The room I sat the exam in had nothing but an empty desk, my printed materials, and my laptop. Mid exam, I received a pop-up message from the admin asking me to show the room once again. So, very politely, I grabbed my laptop and did a 360 degree tour, showing the room and the desk with all my materials scattered across it.
+
 ## What worked out 
 I spent a considerable amount of time familiarizing myself with the index. This, along with using Post-it page markers to index the different days and each section for ease of search, paid off big time. Reading the exercises, case scenarios, and quizzes along with their explanations yielded the best results.
 Everything you need to pass the exam is in the provided training materials. There's no need to purchase extra materials, practice questions, or anything fancy. I didn’t do it, and I’m happy about it. 
 
+Lastly, if you have the option, sit the exam at a desk with plenty of space, you're going to need it if you print the materials. Preferably the desk should be empty, this way the proctor won't bitch on extra screens or other gadgets lying around.
+  
 ## What I’d do differently 
 
 Now that it's all over, the only thing I'd do differently would be printing the slides and start taking notes while watching the videos earlier, and familiarizing myself more with the index sooner. Other than that, it looks like what I did worked out.
