@@ -1,7 +1,7 @@
 ---
 title: "Roadmap"
 date: 2026-03-12
-lastmod: 2026-08-22
+lastmod: 2026-09-19
 draft: false
 ---
 <div style="text-align: justify">
@@ -27,6 +27,8 @@ This is a living document to keep track of the things I’m currently working on
 
 - Write post about:
   - Finish writing Fedora Sway post
+  - Zero Trust 
+  - [MTG downsizing](/posts/260919_too_many_decks/index.md) {{<icon "check">}}
   - [Vulnerability Management](/posts/260810_vm/index.md) {{<icon "check">}}
   - [Minimalism](/posts/20260723_needing_less/index.md) {{<icon "check">}}
   - [PECB ISO 27001 Lead Auditor](/posts/260720_iso27001_la_preps_1/index.md) {{<icon "check">}}
