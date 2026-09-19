@@ -34,7 +34,7 @@ And lastly, the **mental cost**: what am I playing today? So many possibilities 
 
 Alright, so now I've determined that there's a big cost to keeping my collection like that. I have accrued more cards than I will ever play with. I have built more decks than I play with, and I'm not a better player because of it (_harsh truth_). Reason being, I've spent more time sorting and crafting decks than playing with them. 
 
-![You are Bad!](bad.webp#center)
+![You are Bad!](bad.jpg#center)
 
 Well… not everything is doom and gloom. This is the way I've engaged with this hobby, and it brought me joy while I was doing it. **No regrets there!** The thing is, circumstances have changed, my priorities have changed, and so will the way I engage with the hobby from now on.
 
