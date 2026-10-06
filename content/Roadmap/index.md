@@ -12,9 +12,8 @@ This is a living document to keep track of the things I’m currently working on
 
 | Focus Area | Action Plan |
 | :--- | :--- |
-| <img class="customEntitityAlbum" style="background-color:transparent" src="Qualys.png"/> |  **Qualys CyberSecurity Asset Management (CSAM):** Next step towards the Vulnerability Management Detection and Response Learning Path certification. |
+| <img class="customEntitityAlbum" style="background-color:transparent" src="Qualys.png"/> |  **Qualys CyberSecurity Asset Management (CSAM):** Next step towards the Vulnerability Management Detection and Response Learning Path certification. **Qualys Vulnerability Management Detection and Response {{< icon "check" >}} :** I took my [interview preparation](/posts/260810_vm/index.md) too seriously and I ended up getting the VMDR certification.|
 | <img class="customEntitityAlbum" style="background-color:transparent" src="PECB.png"/> |  **PECB ISO/IEC 27001 Lead Auditor {{<icon "check">}}:** In a attempt to improve my knowledge on Governance, Risk and Compliance, I've decided to pursue the ISO 27001 Lead Auditor certification. |
-| <img class="customEntitityAlbum" style="background-color:transparent" src="Qualys.png"/> |  **Qualys Vulnerability Management Detection and Response {{< icon "check" >}} :** I took my [interview](/posts/260810_vm/index.md) preparation too seriously and I ended up getting the VMDR certification. |
 | <img class="customEntitityAlbum" style="background-color:transparent" src="cissp.png"/> |  **ISC2 CISSP Certification {{< icon "check" >}} :** This is the year <s> I will get CISSP certified. I promise!</s> I got the CISSP certification from ISC2 as promised. Check the [CISSP]({{% tagref "cissp" %}}) series to read about my strategy and materials for passing the exam.|
 |<img class="customEntitityAlbum" style="background-color:transparent" src="swaywm.png"/> | **Fedora Atomic Sway:** I keep going back and forth between macOS and Linux. I've tried I3 in the past with relative success, so this year I deviced to install [Fedora Sway](/posts/260320_deploying_fedora_sway/index.md) and rice it a little bit. I enjoy having my T480S as my daily driver. |
 |<img class="customEntitityAlbum" style="background-color:transparent" src="tmux.png"/> | **Tmux:** As part of improving my workflow, I decided to force myself to use the CLI as much as possible. [Terminal Multiplexer](https://tmuxcheatsheet.com/) allows me to experience the "persistence of time" inside the CLI. [Some people](https://medium.com/unixification/tmux-transformed-how-i-use-my-terminal-6fe272e0f69c) even use it as s window manager.|
@@ -41,10 +40,10 @@ This is a living document to keep track of the things I’m currently working on
 ## Currently Reading
 
 - How To Win Friends And Influence People by Dale Carnegie 
-- The Richest Man in Babylon by George Samuel Clason {{<icon "check">}}
+- The Richest Man In Babylon by George Samuel Clason {{<icon "check">}}
 - Level One: The Complete Course by Reid Duke {{<icon "check">}}
-- Switch On Your Brain: The Key to Peak Happiness, Thinking, and Health by Caroline Leaf {{<icon "check">}}
+- Switch On Your Brain: The Key To Peak Happiness, Thinking, And Health by Caroline Leaf {{<icon "check">}}
 - CISSP: The Last Mile by Pete Zerger {{<icon "check">}}
 - ISC2 CISSP Certified Information Systems Security Professional Official Study Guide by Mike Chapple, James Michael Stewart, Darril Gibson {{<icon "check">}}
-- The subtle art of not giving a fuck by Mark Manson {{< icon "check">}}
+- The Subtle Art Of Not Giving a Fuck by Mark Manson {{< icon "check">}}
 </div>
