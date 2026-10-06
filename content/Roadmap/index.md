@@ -1,7 +1,7 @@
 ---
 title: "Roadmap"
 date: 2026-03-12
-lastmod: 2026-09-19
+lastmod: 2026-10-06
 draft: false
 ---
 <div style="text-align: justify">
@@ -12,6 +12,7 @@ This is a living document to keep track of the things I’m currently working on
 
 | Focus Area | Action Plan |
 | :--- | :--- |
+| <img class="customEntitityAlbum" style="background-color:transparent" src="Qualys.png"/> |  **Qualys CyberSecurity Asset Management (CSAM):** Next step towards the Vulnerability Management Detection and Response Learning Path certification. |
 | <img class="customEntitityAlbum" style="background-color:transparent" src="PECB.png"/> |  **PECB ISO/IEC 27001 Lead Auditor {{<icon "check">}}:** In a attempt to improve my knowledge on Governance, Risk and Compliance, I've decided to pursue the ISO 27001 Lead Auditor certification. |
 | <img class="customEntitityAlbum" style="background-color:transparent" src="Qualys.png"/> |  **Qualys Vulnerability Management Detection and Response {{< icon "check" >}} :** I took my [interview](/posts/260810_vm/index.md) preparation too seriously and I ended up getting the VMDR certification. |
 | <img class="customEntitityAlbum" style="background-color:transparent" src="cissp.png"/> |  **ISC2 CISSP Certification {{< icon "check" >}} :** This is the year <s> I will get CISSP certified. I promise!</s> I got the CISSP certification from ISC2 as promised. Check the [CISSP]({{% tagref "cissp" %}}) series to read about my strategy and materials for passing the exam.|
@@ -39,7 +40,8 @@ This is a living document to keep track of the things I’m currently working on
 
 ## Currently Reading
 
-- The Richest Man in Babylon by George Samuel Clason
+- How To Win Friends And Influence People by Dale Carnegie 
+- The Richest Man in Babylon by George Samuel Clason {{<icon "check">}}
 - Level One: The Complete Course by Reid Duke {{<icon "check">}}
 - Switch On Your Brain: The Key to Peak Happiness, Thinking, and Health by Caroline Leaf {{<icon "check">}}
 - CISSP: The Last Mile by Pete Zerger {{<icon "check">}}
