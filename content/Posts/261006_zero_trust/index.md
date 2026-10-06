@@ -58,5 +58,5 @@ As one can imagine, ZT is not a product that can be purchased off the shelf. Tha
 
 CISA's pillars provide areas where improvements can be made over time, aiming for a progressive transition. Each pillar contains ideas on how to implement changes while keeping in mind Visibility and Analytics, Automation and Orchestration, and Governance. But that is a topic for another day. 
 
-So, can I buy one of 'em Zero Trust? 
+So, where can I buy one of 'em Zero Trust? 
 </div>
