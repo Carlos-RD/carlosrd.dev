@@ -23,7 +23,7 @@ showAuthor = true
             <td><img class="customEntitityLogo" style="background-color:white" src="deloitte.png"/></td>
             <td><a href="https://www.deloitte.com/"
             target="_blank">Deloitte</a></td>
-            <td>Service Delivery Manager</td>
+            <td>Delivery Manager</td>
             <td>2026 - Present</td>
             <td>Madrid, <br>ESP</td>
         </tr>
