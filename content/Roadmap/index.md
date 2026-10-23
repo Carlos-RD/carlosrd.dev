@@ -27,6 +27,7 @@ This is a living document to keep track of the things I’m currently working on
 
 - Write post about:
   - Finish writing Fedora Sway post
+  - CyberSecurity Asset Management (CSAM)
   - [Zero Trust](/posts/261006_zero_trust/index.md) {{<icon "check">}}
   - [MTG downsizing](/posts/260919_too_many_decks/index.md) {{<icon "check">}}
   - [Vulnerability Management](/posts/260810_vm/index.md) {{<icon "check">}}
